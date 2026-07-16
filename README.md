@@ -7,11 +7,12 @@ Everything here is a companion to the printed POH — not a replacement.
 
 ## What's in this repo
 
-| File | What it is |
-|------|-----------|
-| [**QUICK_REFERENCE.md**](QUICK_REFERENCE.md) | The one-page card. V-speeds, limits, weights, fuel, emergency memory items. Bookmark this. |
-| [POH.md](POH.md) | Full transcription of the original 144-page POH with embedded chart/diagram pages. Searchable. |
-| [`pages/`](pages/) | Every page of the source POH as a JPEG image. When OCR looks funny, open the matching page here. |
+| File | For | What it is |
+|------|-----|-----------|
+| [**poh.json**](poh.json) | **AI agents / apps** | Structured knowledge base — all specs, V-speeds, limits, emergency and normal procedures with keywords. 24 KB, ~6k tokens, loads whole into a context window. |
+| [QUICK_REFERENCE.md](QUICK_REFERENCE.md) | Pilot, cockpit | One-page card. V-speeds, limits, weights, emergency memory items. Bookmark this. |
+| [POH.md](POH.md) | Human reading | Full transcription of the original 144-page POH with embedded chart/diagram pages. Searchable. |
+| [`pages/`](pages/) | Verification | Every page of the source POH as a JPEG. When something looks off, open the matching page here. |
 
 ---
 

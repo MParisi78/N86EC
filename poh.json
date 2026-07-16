@@ -1,0 +1,578 @@
+{
+  "$schema_version": "1.0",
+  "$description": "Structured knowledge base for the Piper PA-28-140 Cherokee 140 (Cherokee Cruiser). Compiled from POH part No. 761 555, issued July 1973, revisions through 1984. Values hand-verified against source page scans. Intended for AI agent retrieval and in-cockpit reference apps.",
+  "$disclaimer": "Advisory only. The current, on-board, FAA-approved Airplane Flight Manual and Weight & Balance Report are the legal source of truth for flight. Cross-check any critical value against them before use.",
+
+  "aircraft": {
+    "model": "Piper PA-28-140 Cherokee Cruiser",
+    "type_certificate": "PA-28",
+    "serial_range_applicable": "28-7425001 through 28-7625275",
+    "seats": 4,
+    "category_normal_max_weight_lb": 2150,
+    "category_utility_max_weight_lb": 1950,
+    "acrobatic_maneuvers": "prohibited in normal category; only utility-category maneuvers allowed in utility category"
+  },
+
+  "engine": {
+    "make_model": "Lycoming O-320-E2A or O-320-E3D",
+    "rated_hp": 150,
+    "rated_rpm": 2700,
+    "max_rpm_all_operations": 2700,
+    "displacement_cubic_inches": 319.8,
+    "compression_ratio": "7:1",
+    "bore_inches": 5.125,
+    "stroke_inches": 3.875,
+    "dry_weight_lb": 276,
+    "oil_capacity_qt": 8,
+    "carburetor_heat": "recommended any time throttle is closed at or below cruise power"
+  },
+
+  "propeller": {
+    "make": "Sensenich",
+    "models": ["M74DM", "74DM6"],
+    "type": "fixed-pitch aluminum alloy",
+    "max_diameter_in": 74.0,
+    "min_diameter_in": 72.5,
+    "static_rpm_max_throttle_at_1950_lb": {"min": 2150, "max": 2425},
+    "static_rpm_max_throttle_at_2150_lb": {"min": 2275, "max": 2425}
+  },
+
+  "fuel": {
+    "grade_minimum": "80/87 octane aviation gasoline",
+    "grade_acceptable": "100LL",
+    "capacity_gal_standard": 36,
+    "capacity_gal_optional_long_range": 50,
+    "tanks": 2,
+    "consumption_gph_75_percent": 8.4,
+    "consumption_gph_50_percent": 5.6,
+    "notes": "Verify unusable fuel from current W&B. Boost pump ON for takeoff and landing."
+  },
+
+  "weights": {
+    "gross_weight_lb": 2150,
+    "standard_empty_weight_lb": 1275,
+    "max_useful_load_lb": 875,
+    "max_baggage_lb_station_117": 200,
+    "max_baggage_lb_station_133": 100,
+    "cg_range_note": "Datum is 78.4 in ahead of wing leading edge at straight/tapered intersection. See W&B envelope pages 91, 93, 94 for exact limits at your weight."
+  },
+
+  "cg_limits": {
+    "normal_category": [
+      {"weight_lb": 2150, "fwd_limit_in_aft_datum": 88.4, "aft_limit_in_aft_datum": 95.9},
+      {"weight_lb": 1975, "fwd_limit_in_aft_datum": 85.9, "aft_limit_in_aft_datum": 95.9},
+      {"weight_lb": 1650, "fwd_limit_in_aft_datum": 84.0, "aft_limit_in_aft_datum": 95.9}
+    ],
+    "utility_category": [
+      {"weight_lb": 1950, "fwd_limit_in_aft_datum": 85.8, "aft_limit_in_aft_datum": 86.5},
+      {"weight_lb": 1650, "fwd_limit_in_aft_datum": 84.0, "aft_limit_in_aft_datum": 86.5}
+    ],
+    "interpolation": "straight-line between given points"
+  },
+
+  "v_speeds_cas": {
+    "$note": "POH is authored in MPH. Kts included for convenience. All values are Calibrated Airspeed.",
+    "Vso": {"mph": 55, "kts": 48, "meaning": "Stall speed in landing configuration (flaps down, power off)"},
+    "Vs":  {"mph": 64, "kts": 56, "meaning": "Stall speed clean (flaps up, power off)"},
+    "Vx":  {"mph": 74, "kts": 64, "meaning": "Best angle of climb"},
+    "Vy":  {"mph": 85, "kts": 74, "meaning": "Best rate of climb"},
+    "Vglide": {"mph": 80, "kts": 70, "meaning": "Best glide (air conditioner off, from Emergency Procedures)"},
+    "Vfe": {"mph": 115, "kts": 100, "meaning": "Maximum flap extended"},
+    "Va":  {"mph": 129, "kts": 112, "meaning": "Design maneuvering at gross weight (2150 lb). Reduce with weight."},
+    "Vno": {"mph": 140, "kts": 122, "meaning": "Maximum structural cruising (top of green arc)"},
+    "Vne": {"mph": 171, "kts": 149, "meaning": "Never exceed"}
+  },
+
+  "airspeed_instrument_markings_cas": {
+    "red_line": {"mph": 171, "kts": 148, "meaning": "Never exceed"},
+    "yellow_arc": {"mph_range": "140 to 171", "kts_range": "121 to 148", "meaning": "Caution range — smooth air only"},
+    "green_arc": {"mph_range": "64 to 140", "kts_range": "56 to 121", "meaning": "Normal operating range"},
+    "white_arc": {"mph_range": "55 to 115", "kts_range": "48 to 100", "meaning": "Flap operating range"}
+  },
+
+  "load_factors": {
+    "max_positive_normal_category": 3.8,
+    "max_positive_utility_category": 4.4,
+    "max_negative": "no inverted maneuvers approved"
+  },
+
+  "stall_speeds_by_bank_mph_cas": {
+    "$description": "Power-off stall speeds in MPH CAS by angle of bank",
+    "flaps_up":   {"0deg": 64, "20deg": 66, "40deg": 73, "50deg": 80, "60deg": 91},
+    "flaps_down": {"0deg": 55, "20deg": 57, "40deg": 63, "50deg": 69, "60deg": 78},
+    "altitude_loss_during_stall_ft": "up to 200 (depends on configuration and power)"
+  },
+
+  "instrument_markings": {
+    "tachometer": {
+      "green_arc": "500 to 2700 RPM (normal operating)",
+      "red_line": "2700 RPM (max continuous)"
+    },
+    "oil_pressure": {
+      "green_arc_psi": "60 to 90 (normal)",
+      "yellow_arc_psi": "25 to 60 (caution)",
+      "red_line_min_psi": 25,
+      "red_line_max_psi": 90
+    },
+    "oil_temperature": {
+      "green_arc_f": "75 to 245 (normal)",
+      "red_line_f": "245 (max)"
+    },
+    "fuel_pressure": {
+      "green_arc_psi": "0.5 to 8 (normal)",
+      "red_line_min_psi": 0.5,
+      "red_line_max_psi": 8
+    }
+  },
+
+  "performance_sea_level_2150_lb": {
+    "takeoff_ground_run_ft_flaps_up": 800,
+    "takeoff_over_50ft_obstacle_ft_flaps_up": 1700,
+    "best_rate_of_climb_speed_mph": 85,
+    "best_rate_of_climb_fpm": 631,
+    "best_angle_of_climb_speed_mph": 74,
+    "max_speed_sea_level_mph": 142,
+    "service_ceiling_ft": 10950,
+    "absolute_ceiling_ft": 13000,
+    "stall_flaps_up_mph": 64,
+    "stall_flaps_down_mph": 55,
+    "landing_roll_flaps_down_ft": 535,
+    "note_wheel_fairings": "All speeds above assume optional wheel fairings installed; subtract 3 mph if not installed."
+  },
+
+  "cruise_performance": {
+    "$note": "TAS in MPH, ranges in statute miles using 48 gal usable, no reserve.",
+    "best_power_mixture": [
+      {"power_percent": 75, "altitude_ft": 7800,  "tas_mph": null, "range_sm": 705, "note": "range only; TAS interpolated in POH"},
+      {"power_percent": 65, "altitude_ft": 10250, "tas_mph": 127,  "range_sm": 765},
+      {"power_percent": 55, "altitude_ft": 11900, "tas_mph": 114,  "range_sm": 855}
+    ],
+    "best_economy_mixture": [
+      {"power_percent": 75, "altitude_ft": 7000,  "tas_mph": 126,  "range_sm": 720},
+      {"power_percent": 65, "altitude_ft": 10000, "tas_mph": 120,  "range_sm": 795},
+      {"power_percent": 55, "altitude_ft": 12000, "tas_mph": 114,  "range_sm": 880}
+    ],
+    "cruising_speed_sea_level_75_percent_mph": 124,
+    "instructional_cruise_sea_level_60_percent_mph": 110
+  },
+
+  "emergency_procedures": {
+    "engine_failure_takeoff_runway_remaining": {
+      "keywords": ["engine failure takeoff", "power loss takeoff", "runway remaining", "abort takeoff"],
+      "memory_items": [
+        "Throttle - CLOSED",
+        "Land straight ahead",
+        "Brakes - as required"
+      ],
+      "notes": "Do not attempt turnback at low altitude.",
+      "source_page": 67
+    },
+    "engine_failure_takeoff_no_runway": {
+      "keywords": ["engine failure after takeoff", "power loss takeoff", "no runway", "impossible turn"],
+      "memory_items": [
+        "Airspeed - maintain safe airspeed (do NOT stall trying to turn back)",
+        "Turns - shallow only, to avoid obstacles",
+        "Flaps - as required, typically full for touchdown",
+        "Fuel selector - OFF",
+        "Mixture - IDLE CUT-OFF",
+        "Master switch - OFF",
+        "Land straight ahead with minor course changes only"
+      ],
+      "notes": "If sufficient altitude was gained, attempt restart per engine failure in flight procedure.",
+      "source_page": 67
+    },
+    "engine_failure_in_flight_restart": {
+      "keywords": ["engine failure in flight", "power loss in flight", "engine restart", "windmill start"],
+      "memory_items": [
+        "Airspeed - 80 MPH IAS (best glide, A/C off)",
+        "Fuel selector - switch to another tank containing fuel",
+        "Electric fuel pump - ON",
+        "Mixture - RICH",
+        "Carburetor heat - ON",
+        "Engine gauges - check for cause of power loss",
+        "Primer - check LOCKED",
+        "If no fuel pressure - verify tank selection is on tank containing fuel",
+        "When power restored: Carb heat OFF, Electric fuel pump OFF"
+      ],
+      "if_time_permits": [
+        "Ignition switch - L, then R, then back to BOTH",
+        "Throttle and mixture - try different settings",
+        "Try other fuel tanks (water in fuel may take time to clear)"
+      ],
+      "notes": "If failure was fuel exhaustion, power will not restore until empty lines are refilled — up to 10 seconds after switching tanks.",
+      "source_page": 68
+    },
+    "power_off_landing": {
+      "keywords": ["forced landing", "power off landing", "engine out", "dead stick", "off airport landing"],
+      "memory_items": [
+        "Airspeed - 80 MPH IAS (best glide, A/C off)",
+        "Field - select suitable, head into wind if possible",
+        "Notify FAA by radio (121.5 or ATC) of intentions",
+        "Fuel selector - OFF (just before touchdown)",
+        "Mixture - IDLE CUT-OFF",
+        "Magnetos - OFF",
+        "Master switch - OFF (after flaps set)",
+        "Seat belts and shoulder harness - TIGHT",
+        "Cabin door - UNLATCHED before touchdown",
+        "Flaps - as required",
+        "Touch down at minimum controllable airspeed"
+      ],
+      "notes": "Establish spiral over the field, aim to be at 1000 ft AGL on downwind. Excess altitude with pattern extension, flaps, or slip.",
+      "source_page": 68
+    },
+    "fire_on_ground_during_start": {
+      "keywords": ["engine fire start", "fire during start", "carburetor fire"],
+      "memory_items": [
+        "Mixture - IDLE CUT-OFF",
+        "Throttle - OPEN",
+        "Continue cranking to draw fire into engine",
+        "If fire persists: Master switch OFF, evacuate airplane"
+      ],
+      "source_page": null
+    },
+    "fire_in_flight_electrical": {
+      "keywords": ["electrical fire", "smoke in cockpit", "cabin fire"],
+      "memory_items": [
+        "Master switch - OFF",
+        "Cabin heat and defrost - OFF (unless needed to clear smoke)",
+        "Vents - open as required",
+        "Land as soon as practicable"
+      ],
+      "source_page": null
+    },
+    "fire_in_flight_engine": {
+      "keywords": ["engine fire in flight", "cowl fire"],
+      "memory_items": [
+        "Fuel selector - OFF",
+        "Throttle - CLOSED",
+        "Mixture - IDLE CUT-OFF",
+        "Electric fuel pump - OFF",
+        "Cabin heat and defrost - OFF",
+        "Establish glide, proceed with power-off landing"
+      ],
+      "source_page": null
+    },
+    "loss_of_oil_pressure": {
+      "keywords": ["low oil pressure", "oil pressure loss", "oil system failure"],
+      "memory_items": [
+        "Land at nearest suitable airport as soon as possible",
+        "Reduce power to minimum needed to reach the field",
+        "Prepare for possible engine seizure or forced landing en route"
+      ],
+      "source_page": null
+    },
+    "loss_of_fuel_pressure": {
+      "keywords": ["low fuel pressure", "fuel pressure loss"],
+      "memory_items": [
+        "Electric fuel pump - ON",
+        "Fuel selector - verify on tank with fuel",
+        "If pressure not restored, prepare for engine failure and land as soon as practical"
+      ],
+      "source_page": null
+    },
+    "high_oil_temperature": {
+      "keywords": ["oil overtemp", "high oil temp"],
+      "memory_items": [
+        "Reduce power",
+        "Enrich mixture",
+        "Increase airspeed to improve cooling",
+        "Land as soon as practical if temperature stays in yellow/red"
+      ],
+      "source_page": null
+    },
+    "alternator_failure": {
+      "keywords": ["alternator failure", "generator failure", "electrical failure"],
+      "memory_items": [
+        "Reduce electrical load immediately (nonessential equipment OFF)",
+        "Verify with ammeter and warning light",
+        "Master switch - cycle OFF then ON to attempt reset",
+        "If not restored: land as soon as practical to preserve battery for flaps, radio, gear indication"
+      ],
+      "source_page": null
+    },
+    "engine_roughness": {
+      "keywords": ["engine roughness", "rough running", "engine surging"],
+      "memory_items": [
+        "Carburetor heat - ON (check for carb ice)",
+        "Mixture - adjust for smoothest operation",
+        "Fuel selector - switch tanks",
+        "Electric fuel pump - ON",
+        "Engine gauges - check for indications",
+        "Magneto check - L, R, both",
+        "If roughness persists: land as soon as practical"
+      ],
+      "source_page": null
+    },
+    "spin_recovery": {
+      "keywords": ["spin", "spin recovery", "loss of control"],
+      "memory_items": [
+        "Throttle - CLOSED",
+        "Rudder - FULL against spin direction",
+        "Control wheel - forward, briskly",
+        "When rotation stops: rudder neutral, ease out of dive"
+      ],
+      "notes": "Spins prohibited in Normal category. Placarded: 'FOR SPIN RECOVERY, USE FULL RUDDER AGAINST SPIN, FOLLOWED IMMEDIATELY BY FORWARD WHEEL.'",
+      "source_page": 47
+    },
+    "open_door_in_flight": {
+      "keywords": ["door open", "cabin door", "door pops open"],
+      "memory_items": [
+        "Continue flying the airplane — door is not a control emergency",
+        "Reduce speed",
+        "Yaw the airplane to help close, or land and reclose on the ground",
+        "Do not lean out to close in flight"
+      ],
+      "source_page": null
+    }
+  },
+
+  "normal_procedures": {
+    "preflight": {
+      "keywords": ["preflight", "walkaround", "pre-flight inspection"],
+      "steps": [
+        "Release seat belt securing control wheel",
+        "Master switch - ON, check fuel quantity (both tanks)",
+        "Master switch and ignition - OFF",
+        "Check for external damage, control surface interference",
+        "Wings and control surfaces free of snow, ice, frost",
+        "Visually check fuel supply in both tanks, caps secure",
+        "Drain fuel system sumps and gascolator; check for water/sediment/proper grade",
+        "Check fuel system vents are open",
+        "Check landing gear shock struts (main ~4.5 in extension)",
+        "Check tires for cuts, wear, inflation",
+        "Check brake pads and discs for wear",
+        "Inspect windshield for cleanliness",
+        "Check propeller and spinner for nicks and defects",
+        "Check for fuel or oil leaks",
+        "Check oil level: 8 quart maximum, dipstick fully seated",
+        "Inspect cowling and inspection covers for security",
+        "Check nose wheel tire and shock strut (~3.25 in extension)",
+        "Check air inlets clear",
+        "Check alternator belt tension",
+        "Stow tow bar and control locks",
+        "Check baggage stowed and secured",
+        "Verify required papers are in aircraft",
+        "Fasten seat belts and shoulder harness; check inertia reel"
+      ],
+      "source_page": 97
+    },
+    "before_starting_engine": {
+      "keywords": ["before start", "engine start prep", "pre-start"],
+      "steps": [
+        "Parking brake - ON",
+        "Carburetor heat - FULL COLD (OFF)",
+        "Fuel selector - select desired tank",
+        "Circuit breakers - all IN",
+        "Mixture - IDLE CUT-OFF"
+      ],
+      "source_page": 98
+    },
+    "starting_engine_cold": {
+      "keywords": ["cold start", "engine start", "starting cold"],
+      "steps": [
+        "Master switch - ON",
+        "Electric fuel pump - ON for 3 seconds, then OFF",
+        "Throttle - cracked (approx 1/4 inch)",
+        "Mixture - RICH",
+        "Magneto switch - START (rotate clockwise and press)",
+        "When engine fires: retard throttle to 800 RPM",
+        "Verify oil pressure within 30 seconds — if not, shut down and investigate"
+      ],
+      "notes": "Cold weather: allow a few extra seconds for oil pressure indication. Cranking limit: 30 seconds on, 2 minutes off.",
+      "source_page": 98
+    },
+    "starting_engine_hot": {
+      "keywords": ["hot start", "starting hot engine"],
+      "steps": [
+        "Throttle - open approximately 1/2 inch",
+        "Mixture - IDLE CUT-OFF",
+        "Master switch - ON",
+        "Magneto - START",
+        "When engine fires: mixture RICH slowly, throttle 800 RPM"
+      ],
+      "source_page": null
+    },
+    "starting_engine_flooded": {
+      "keywords": ["flooded start", "flooded engine"],
+      "steps": [
+        "Throttle - FULL OPEN",
+        "Mixture - IDLE CUT-OFF",
+        "Master switch - ON",
+        "Magneto - START",
+        "When engine fires: quickly retard throttle, mixture RICH"
+      ],
+      "source_page": null
+    },
+    "starting_with_external_power": {
+      "keywords": ["external power", "jump start", "auxiliary power", "PEP"],
+      "steps": [
+        "Master switch - OFF",
+        "Connect RED lead to POSITIVE (+) of external 12V battery",
+        "Connect BLACK lead to NEGATIVE (-)",
+        "Insert plug into fuselage receptacle",
+        "Master switch - ON, proceed with normal start",
+        "After start: Master OFF, disconnect jumper cable",
+        "Master ON, verify alternator output on ammeter - DO NOT FLY WITHOUT ALTERNATOR OUTPUT"
+      ],
+      "source_page": 99
+    },
+    "warm_up_and_taxi": {
+      "keywords": ["warm up", "taxi", "ground operation"],
+      "steps": [
+        "Warm up at 800-1200 RPM",
+        "Avoid high power runs on the ground",
+        "Taxi with brakes tested before increasing throttle",
+        "Steer with rudder pedals (nose wheel is steerable through pedals)"
+      ],
+      "source_page": null
+    },
+    "run_up_ground_check": {
+      "keywords": ["runup", "ground check", "engine runup", "mag check"],
+      "steps": [
+        "Face into wind, brakes set",
+        "Throttle - 2000 RPM",
+        "Magneto check: switch to L, note RPM drop; back to BOTH; to R, note drop; back to BOTH",
+        "Max drop 175 RPM; max differential between L and R: 50 RPM",
+        "Carburetor heat - ON, note RPM drop (confirms hot air); return OFF",
+        "Vacuum gauge - check in green",
+        "Ammeter - check charging",
+        "Suction - check in operating range",
+        "Idle check at 600-700 RPM",
+        "Mixture - lean and enrich to check for smooth idle"
+      ],
+      "source_page": null
+    },
+    "before_takeoff": {
+      "keywords": ["before takeoff", "pre-takeoff", "takeoff checklist"],
+      "steps": [
+        "Fuel selector - fullest tank",
+        "Electric fuel pump - ON",
+        "Mixture - RICH (lean at high density altitude)",
+        "Carburetor heat - COLD",
+        "Trim - set for takeoff",
+        "Flaps - as required (0 or 25 for short field)",
+        "Controls - free and correct",
+        "Engine gauges - green",
+        "Doors and windows - closed and latched",
+        "Seat belts and shoulder harness - fastened and tight"
+      ],
+      "source_page": null
+    },
+    "takeoff": {
+      "keywords": ["takeoff", "liftoff", "rotation"],
+      "steps": [
+        "Line up, apply full throttle smoothly",
+        "Verify engine parameters and full RPM",
+        "Rotate at approximately 65 MPH IAS",
+        "Climb at Vy = 85 MPH for best rate, or Vx = 74 MPH if obstacle",
+        "Electric fuel pump - OFF at safe altitude and verify fuel pressure remains",
+        "Flaps - retract in steps if used",
+        "Landing gear - N/A (fixed gear)"
+      ],
+      "source_page": null
+    },
+    "climb": {
+      "keywords": ["climb", "cruise climb", "en route climb"],
+      "steps": [
+        "Best rate: 85 MPH IAS",
+        "Best angle: 74 MPH IAS",
+        "Cruise climb: 95-100 MPH IAS for visibility and engine cooling",
+        "Monitor cylinder head and oil temperatures",
+        "Lean mixture above 3000 ft density altitude for smooth operation"
+      ],
+      "source_page": null
+    },
+    "cruise": {
+      "keywords": ["cruise", "level flight", "en route"],
+      "steps": [
+        "Set cruise power (65-75% typical for economy)",
+        "Lean mixture per POH cruise chart or by roughness/EGT",
+        "Monitor fuel gauges, oil temp/pressure, fuel pressure",
+        "Switch fuel tanks periodically to keep laterally balanced"
+      ],
+      "typical_burn_gph": "8-9 at 65-75% power",
+      "source_page": null
+    },
+    "descent_and_approach": {
+      "keywords": ["descent", "approach", "pattern entry", "arriving"],
+      "steps": [
+        "Carburetor heat - ON any time throttle is closed or below cruise power",
+        "Mixture - RICH as you descend below 5000 ft density altitude",
+        "Fuel selector - fullest tank",
+        "Electric fuel pump - ON before entering pattern",
+        "Pattern speeds: 90 MPH downwind, 80 MPH base, 75 MPH final",
+        "Full flaps by short final if runway allows",
+        "Over the fence: approximately 70 MPH"
+      ],
+      "source_page": null
+    },
+    "landing": {
+      "keywords": ["landing", "touchdown", "flare"],
+      "steps": [
+        "Cross fence at ~70 MPH",
+        "Reduce power to idle in flare",
+        "Hold nose off, touch down mains first",
+        "Lower nose wheel gently after mains are down",
+        "Apply brakes as needed",
+        "Flaps - retract only after clear of runway",
+        "Carburetor heat - COLD after landing"
+      ],
+      "source_page": null
+    },
+    "after_landing_shutdown": {
+      "keywords": ["shutdown", "after landing", "engine stop", "securing"],
+      "steps": [
+        "Flaps - UP",
+        "Carburetor heat - COLD",
+        "Electric fuel pump - OFF",
+        "Idle at 1000 RPM for at least 1 minute to cool",
+        "Mixture - IDLE CUT-OFF to stop engine",
+        "Magnetos - OFF (after propeller stops)",
+        "Master switch - OFF",
+        "Fuel selector - LEFT or as needed",
+        "Control lock - installed",
+        "Chocks and tie-downs - as needed"
+      ],
+      "source_page": null
+    }
+  },
+
+  "operating_tips": {
+    "carb_ice": "Cherokee 140's Lycoming O-320 is carb-ice prone in humid conditions from ~20°F to 90°F OAT. Use full carb heat any time throttle is at or below cruise power.",
+    "fuel_management": "Alternate tanks every 30 minutes in cruise to keep laterally balanced. Do not use lowest tank on takeoff or landing.",
+    "leaning": "Above 5000 ft density altitude or 75% power below that, lean for smoothness or per EGT.",
+    "spin_prohibition": "Spins prohibited in Normal category. Utility category spins allowed only with flaps up.",
+    "load_planning": "At gross weight (2150), aft CG is critical — verify seat position and baggage placement.",
+    "engine_hour_use": "Monitor engine hour meter for oil change intervals (typically 50 hr / calendar quarter)."
+  },
+
+  "conversions": {
+    "$note": "The POH is in MPH; modern instruments and radio calls often use knots. This block is here for the agent to convert cleanly.",
+    "mph_to_kts_multiplier": 0.868976,
+    "kts_to_mph_multiplier": 1.150779,
+    "fuel_gal_to_lb_avgas": 6.0
+  },
+
+  "sources": {
+    "$note": "For any value that seems wrong, cross-check against the original page image. Every JPEG below is a scan of the printed page.",
+    "poh_full_markdown": "POH.md",
+    "quick_reference_card": "QUICK_REFERENCE.md",
+    "page_image_pattern": "pages/page-XXX.jpg",
+    "key_source_pages": {
+      "general_specifications": [13, 14],
+      "airframe_dimensions": 15,
+      "systems_diagrams_and_description": [17, 19, 21, 22, 25, 27, 29, 33, 35],
+      "limitations_faa_approved": [45, 46, 47],
+      "procedures_faa_approved": 51,
+      "performance_stall_speeds_faa_approved": 53,
+      "supplements": 55,
+      "emergency_procedures_expanded": [65, 67, 68, 69, 70, 71, 72],
+      "weight_balance_data": [79, 81, 83, 85, 87],
+      "weight_balance_envelope": [91, 93, 94],
+      "operating_instructions": [95, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107],
+      "operating_tips": [109, 110],
+      "performance_charts": [113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123],
+      "handling_and_servicing": [125, 127]
+    }
+  }
+}
