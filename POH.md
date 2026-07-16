@@ -1,36 +1,52 @@
-# Piper PA-28-140 Cherokee Cruiser — Pilot's Operating Manual
+# Piper PA-28-140 Cherokee Cruiser
+## Pilot's Operating Manual
 
-> **OCR transcription of the scanned original POH.** Numbers, tables, and diagrams may contain recognition errors. **Always verify critical airspeeds, limits, weights, and procedures against the printed POH before flight.**
+> **This is an OCR + human-reviewed transcription of the scanned original POH.**
+> Numbers, tables, and diagrams may contain recognition errors.
+> **Always verify critical airspeeds, limits, weights, and procedures against the printed POH before flight.**
 >
-> Applicable serial numbers: 28-7425001 through 28-7625275
+> **Applicable serial numbers:** 28-7425001 through 28-7625275
+> **Model:** PA-28-140
+> **Publisher:** Piper Aircraft Corporation, Publications Department
+> **Part No:** 761 555 — Issued July 1973
 
 ---
 
-## Contents (by original page)
+## Contents
 
-*This document preserves the original page structure. Use your browser's find (⌘F / Ctrl+F) to search for topics like "stall speed", "engine failure", "weight and balance", etc.*
-
----
-
-### Page 1
-
-THE
-
-cherokee CRUISER
-and FLITE LINER
-
-PILOT’S OPERATING MANUAL
-
-BY
-
-PIPER
-
-This manual is incomplete without an APPROPRIATE FAA APPROVED AIRPLANE
-FLIGHT MANUAL and an APPROPRIATE WEIGHT AND BALANCE REPORT.
+- [Front Matter](#front-matter)
+- [Log of Revisions](#log-of-revisions)
+- [Table of Contents](#table-of-contents)
+- [Section I: General Specifications](#section-i-general-specifications)
+- [Section II: Description — Airplane and Systems](#section-ii-description-airplane-and-systems)
+- [Airplane Flight Manual (FAA Approved)](#airplane-flight-manual-faa-approved)
+- [Emergency Procedures (Expanded)](#emergency-procedures-expanded)
+- [Weight and Balance](#weight-and-balance)
+- [Operating Instructions](#operating-instructions)
+- [Operating Tips](#operating-tips)
+- [Performance Charts](#performance-charts)
+- [Handling and Servicing](#handling-and-servicing)
 
 ---
 
-### Page 2
+## Front Matter
+
+#### Page 1
+
+![Page 1](pages/page-001.jpg)
+
+<sub>*OCR'd labels/captions on this page:*</sub>
+
+> THE
+>
+> and FLITE LINER
+>
+> PILOT'S OPERATING MANUAL
+>
+> This manual is incomplete without an APPROPRIATE FAA APPROVED AIRPLANE
+> FLIGHT MANUAL and an APPROPRIATE WEIGHT AND BALANCE REPORT.
+
+#### Page 2
 
 WARNING
 
@@ -45,7 +61,7 @@ MODEL PA-28-140
 28-7525250
 AIRCRAFT SERIAL NO. REGISTRATION NO.
 
-PILOT’S OPERATING MANUAL, PART NUMBER 761 555 REVISION we
+PILOT'S OPERATING MANUAL, PART NUMBER 761 555 REVISION we
 
 PIPER AIRCRAFT eon Wen a, 7 £ Can.
 APPROVAL SIGNATURE AND ST. L, Ack,
@@ -56,13 +72,13 @@ is also responsible for remaining within the operating limitations outlined by t
 
 Manual, instrument markings, and placards.
 
-This Pilot’s Operating Manual is not designed as a substitute for adequate and competent
+This Pilot's Operating Manual is not designed as a substitute for adequate and competent
 flight instruction, knowledge of the current airworthiness directives, applicable federal air
 regulations, or advisory circulars. It is not intended to be a guide for basic flight instruction or a
 
 training manual for transition from single to multi-engine flying.
 
-If an inconsistency of information exists between the Pilot’s Operating Manual and the
+If an inconsistency of information exists between the Pilot's Operating Manual and the
 Airplane Flight Manual approved by the FAA, the Airplane Flight Manual shall be the
 
 authority.
@@ -74,13 +90,9 @@ Published by
 PUBLICATIONS DEPARTMENT
 Piper Aircraft Corporation
 761 555
-Issued: July 1973
 
----
+#### Page 3
 
-### Page 3
-
-APPLICABILITY
 This manual is applicable to Piper Model PA-28-140 aircraft having serial numbers
 
 28-7425001 through 28-7625275. Contact Piper Customer Services for specific information on
@@ -88,7 +100,7 @@ the application of this manual.
 
 REVISIONS
 
-The information compiled in the Pilot’s Operating Manual will be kept current by revisions
+The information compiled in the Pilot's Operating Manual will be kept current by revisions
 distributed to the airplane owners.
 
 Revision material will consist of information necessary to update the text of the present
@@ -107,7 +119,6 @@ additions and shall be inserted into the manual in accordance with the instructi
 same common numbered page.
 
 Il. Identification of Revised Material
-Revised text and illustrations shall be indicated by a black vertical line along the left hand
 margin of the page, opposite revised, added or deleted material. A line opposite the page
 number or section title and printing date, will indicate that the text or illustration was
 unchanged but material was relocated to a different page or that an entire page was added.
@@ -121,17 +132,15 @@ The original pages issued for this manual prior to revision are given below:
 1-1 through 1-4, 2-1 through 2-18, 3-1 through 3-18, 4-1 through 4-6, 5-1 through 5-32,
 7-1 through 7-11, 8-1 through 8-2, 9-1 through 9-11, 10-1 through 10-15.
 
-iii
+## Log of Revisions
 
----
+#### Page 4
 
-### Page 4
-
-Current Revisions to the PA-28-140 Cherokee Cruiser Pilot’s Operating Manual, 761 555, issued
+Current Revisions to the PA-28-140 Cherokee Cruiser Pilot's Operating Manual, 761 555, issued
 
 July 6, 1973.
 
-PILOT’S OPERATING MANUAL LOG OF REVISIONS
+PILOT'S OPERATING MANUAL LOG OF REVISIONS
 
 Revised
 
@@ -178,13 +187,9 @@ added Cruising info from page 7-6; revised
 Cruising info; revised stall info.
 7-6 Relocate Cruising to page 7-5: added
 
-iv
+#### Page 5
 
----
-
-### Page 5
-
-PILOT’S OPERATING MANUAL LOG OF REVISIONS (cont)
+PILOT'S OPERATING MANUAL LOG OF REVISIONS (cont)
 
 Revised
 
@@ -228,13 +233,9 @@ Rev. 7 - 761 555 2-1 Deleted info (AIRFRAME). July 18, 1975
 callouts.
 W/B Added Rev. 7 to Report: VB-546.
 
-iv-a
+#### Page 6
 
----
-
-### Page 6
-
-PILOT’S OPERATING MANUAL LOG OF REVISIONS (cont)
+PILOT'S OPERATING MANUAL LOG OF REVISIONS (cont)
 
 Revised
 
@@ -273,7 +274,7 @@ info to page 10-13.
 Rev. 10 - 761 555 W/B Added Rev. 9 to Report: VB-546. July 19, 1976
 (PR760719) 7-10 Added info from page 7-11. Deleted info
 about Emergency Locator Transmitter.
-7-11 Moved info to page 7-10; revised pilot’s
+7-11 Moved info to page 7-10; revised pilot's
 remote switch description.
 Rev. 1] - 761 555 7-2 Revised Starting Engines When Hot. June 3, 1977
 (PR770603) 7-11 Revised ELT Note.
@@ -281,16 +282,11 @@ Rev. 12 - 761 555 iil Added Applicable Serial Numbers. Sept. 30, 1977
 (PR770930) A F/M Added Rev. 6 to Report: VB-557.
 W/B Added Rev. 10 to Report: VB-546.
 
-iv-b
+#### Page 7
 
----
-
-### Page 7
-
-PILOT’S OPERATING MANUAL LOG OF REVISIONS (cont)
+PILOT'S OPERATING MANUAL LOG OF REVISIONS (cont)
 
 Revision Revised Description Date
-ages
 Rev. 13 - 761 555 2-8 Added Waming. April 16, 1979
 (PR790416) 2-14 Added Caution.
 W/B Added Rev. 1] to Report: VB-546.
@@ -308,7 +304,6 @@ A F/M Added Rev. 7 to Report: VB-557.
 W/B Added Rev. 13 to Report: VB-546.
 7-1 Revised Preflight.
 7-4, Added ending serial number effectivity.
-8-1
 9-1 Added Warning.
 10-8 Revised Fuel Requirements.
 10-1] Revised Handling and Servicing (Facts
@@ -330,64 +325,30 @@ You Should Know).
 
 Periods.
 
-iv-c
+## Table of Contents
 
----
-
-### Page 8
+#### Page 8
 
 TABLE OF CONTENTS
-
-GENERAL SPECIFICATIONS
 
 DESCRIPTION - AIRPLANE AND SYSTEMS
 
 AIRPLANE FLIGHT MANUAL F.A.A. APPROVED
 EMERGENCY PROCEDURES F.A.A. APPROVED
 
-EMERGENCY PROCEDURES
-
-WEIGHT AND BALANCE
-
 LOADING INSTRUCTIONS
 
-OPERATING INSTRUCTIONS
-
-OPERATING TIPS
-
-PERFORMANCE CHARTS
-
-HANDLING AND SERVICING
-
----
-
-### Page 9
-
-GENERAL SPECIFICATIONS
+#### Page 9
 
 Performance
-Weights ..........
+Weights  … 
 Power Plant
 
 HOVE
 
----
+## Section I: General Specifications
 
-### Page 10
-
-*(blank)*
-
-### Page 11
-
-*(blank)*
-
-### Page 12
-
-*(blank)*
-
-### Page 13
-
-GENERAL SPECIFICATIONS
+#### Page 13
 
 PERFORMANCE
 
@@ -437,9 +398,7 @@ Cruising Speed, sea level, 75% power (mph) 124
 Instructional power cruise speed, sea level, 60% power (mph) 110
 Cruising range, sea level, 75% power (mi) 475
 
-(675***)
 Instructional power cruising range, sea level, 60% power, (mi) 540
-(760***)
 
 * All speeds stated are with optional wheel fairings installed. Subtract 3 mph if wheel fairings
 are not installed.
@@ -447,12 +406,7 @@ are not installed.
 *** Ranges adjusted to reflect the use of best economy speeds with best economy fuel flow's,
 and 48 gallons usable.
 
-GENERAL SPECIFICATIONS
-REVISED: OCTOBER 22, 1973 1-1
-
----
-
-### Page 14
+#### Page 14
 
 Fuel Consumption, 75% power (gal per hr) 8.4
 Fuel Consumption, 50% power (gal per hr) 5.6
@@ -495,111 +449,87 @@ Baggage Space (cubic ft) 22
 
 baggage area mofified in accordance with Piper Drawing 66671.
 
-GENERAL SPECIFICATIONS
 1-2 REVISED: JULY 13, 1984
 
----
+#### Page 15
 
-### Page 15
+![Page 15](pages/page-015.jpg)
 
-DIMENSIONS
+<sub>*OCR'd labels/captions on this page:*</sub>
 
-Wing Span (ft)
-Wing Area (sq ft)
+> DIMENSIONS
+>
+> Wing Span (ft)
+> Wing Area (sq ft)
+>
+> Wing Loading (Ibs per sq ft)
+>
+> Length (ft)
+> Height (ft)
+>
+> Power Loading (Ibs per hp)
+>
+> LANDING GEAR
+> Wheel Base (ft)
+> Wheel Tread (ft)
+> Tire Pressure (lbs)
+>
+> Tire Size
+>
+> Nose
+> Main
+> Nose (4 ply rating)
+> Main (4 ply rating)
+>
+> 13.4
+> 14,3
+>
+> 6.2
+>
+> 10.0
+>
+> 6.00 x 6
+> 6.00 x 6
 
-Wing Loading (Ibs per sq ft)
-
-Length (ft)
-Height (ft)
-
-Power Loading (Ibs per hp)
-
-LANDING GEAR
-Wheel Base (ft)
-Wheel Tread (ft)
-Tire Pressure (lbs)
-
-Tire Size
-
-Nose
-Main
-Nose (4 ply rating)
-Main (4 ply rating)
-
-GENERAL SPECIFICATIONS
-
-REVISED: JULY 13, 1984
-
-30
-160
-13.4
-233
-do
-14,3
-
-6.2
-
-10.0
-
-24
-
-24
-
-6.00 x 6
-6.00 x 6
-
-1-3
-
----
-
-### Page 16
-
-GENERAL SPECIFICATIONS
+#### Page 16
 
 1-4 ISSUED: JULY 6, 1973
 
----
+## Section II: Description — Airplane and Systems
 
-### Page 17
+#### Page 17
 
-DESCRIPTION
+![Page 17](pages/page-017.jpg)
+
+<sub>*OCR'd labels/captions on this page:*</sub>
+
+> AIRPLANE AND SYSTEMS
+>
+> See ee ee OhWannNees
+>
+> AYUNNAAADALHL——
+>
+> Engine and Propeller.
+> Landing Gear … 
+> Flight Controls … 
+> Fuel System  … 
+> Electrical System  … 
+> Vacuum System  … 
+> Instrument Panel … 
+> Pitot-Static System
+> Heating and Ventilating System
+> Cabin Features … 
+> Baggage Area … 
+> Stall Warni
+> Finish  … 
+> Air Conditioning … 
+> Piper External Power
+>
+> WRN YYNYNNYNNNNNYNNYNNN
+
+#### Page 19
 
 AIRPLANE AND SYSTEMS
-
-t D
-See ee ee OhWannNees
-
-AYUNNAAADALHL——
-
-Engine and Propeller.
-Landing Gear...............
-Flight Controls...
-Fuel System .......
-Electrical System ......
-Vacuum System ....
-Instrument Panel...
-Pitot-Static System
-Heating and Ventilating System
-Cabin Features...
-Baggage Area..
-Stall Warni
-Finish ...
-Air Conditioning...
-Piper External Power
-
-WRN YYNYNNYNNNNNYNNYNNN
-
----
-
-### Page 18
-
-*(blank)*
-
-### Page 19
-
-DESCRIPTION
-AIRPLANE AND SYSTEMS
-THE AIRPLANE
 
 The Cherokee 140 is a single-engine, low wing monoplane of all metal construction. It is
 available in two versions, the Cherokee Cruiser and the Cherokee Flite Liner.
@@ -640,11 +570,8 @@ Exhaust gases are carried through a system constructed of heavy gauge stainless 
 incorporates heater shrouds to provide cabin heat, defrosting, and carburetor deicing.
 
 AIRPLANE AND SYSTEMS
-REVISED: JULY 18, 1975 2}
 
----
-
-### Page 20
+#### Page 20
 
 The propeller used on the PA-28-140 is a Sensenich M74DM fixed-pitch aluminum alloy
 unit. Its diameter is 74 inches with a standard pitch of 58 inches. All performance figures are
@@ -691,28 +618,29 @@ mechanism; then allow the handle to swing forward.
 AIRPLANE AND SYSTEMS
 2-2 REVISED: JUNE 13, 1974
 
----
+#### Page 21
 
-### Page 21
+![Page 21](pages/page-021.jpg)
 
-Main Wheel Assembly
+<sub>*OCR'd labels/captions on this page:*</sub>
 
-AIRPLANE AND SYSTEMS
-ISSUED: JULY 6, 1973 2.3
+> Main Wheel Assembly
+>
+> AIRPLANE AND SYSTEMS
 
----
+#### Page 22
 
-### Page 22
+![Page 22](pages/page-022.jpg)
 
-Throttle Quadrant and Console
+<sub>*OCR'd labels/captions on this page:*</sub>
 
-AIRPLANE AND SYSTEMS
+> Throttle Quadrant and Console
+>
+> AIRPLANE AND SYSTEMS
+>
+> 2-4 ISSUED: JULY 6, 1973
 
-2-4 ISSUED: JULY 6, 1973
-
----
-
-### Page 23
+#### Page 23
 
 Console
 
@@ -742,41 +670,8 @@ position. The button releases automatically when the handle is moved back into t
 position.
 
 AIRPLANE AND SYSTEMS
-ISSUED: JULY 6, 1973 2-5
 
----
-
-### Page 24
-
-‘\
-
-\
-
-ei
-
-We
-
-\
-\
-
-\ i
-\i \ \
-
-i
-
-\
-
-i
-\
-
-\
-
-\
-\
-
-i *e
-
-\
+#### Page 24
 
 Fuel Selector
 
@@ -803,46 +698,41 @@ immediate left of the throttle quadrant.
 AIRPLANE AND SYSTEMS
 2-6 REVISED: JULY 13, 1984
 
----
+#### Page 25
 
-### Page 25
+![Page 25](pages/page-025.jpg)
 
-FUEL QUANTITY GAUGES
+<sub>*OCR'd labels/captions on this page:*</sub>
 
-severe, INN
-
-FUEL TANK SELECTOR VALVE
-
-= FUEL STRAINER ——
-MAIN TANK MAIN TARK
-
-PRIMER D-
-ENGINE FUEL PUMP
-
-ELECTRIC FUEL PUMP
-FUEL PRESSURE GAUGE
-
-7.
-re rare
-
-mixture |)
-
-THROTTLE
-Le
-
-CARBURETOR
-
+> FUEL QUANTITY GAUGES
 >
-2
+> severe, INN
+>
+> FUEL TANK SELECTOR VALVE
+>
+> = FUEL STRAINER ——
+> MAIN TANK MAIN TARK
+>
+> PRIMER D-
+> ENGINE FUEL PUMP
+>
+> ELECTRIC FUEL PUMP
+> FUEL PRESSURE GAUGE
+>
+> 7.
+> re rare
+>
+> mixture |)
+>
+> THROTTLE
+>
+> CARBURETOR
+>
+> Fuel System Schematic
+>
+> AIRPLANE AND SYSTEMS
 
-Fuel System Schematic
-
-AIRPLANE AND SYSTEMS
-ISSUED: JULY 6, 1973 2-7
-
----
-
-### Page 26
+#### Page 26
 
 ELECTRICAL SYSTEM
 
@@ -902,60 +792,46 @@ excite the alternator.
 AIRPLANE AND SYSTEMS
 2-8 REVISED: MAY 22, 1980
 
----
+#### Page 27
 
-### Page 27
+![Page 27](pages/page-027.jpg)
 
-STARTER & ACCESSORIES ALTERNATOR FIELD
+<sub>*OCR'd labels/captions on this page:*</sub>
 
-.; ra
+> STARTER & ACCESSORIES ALTERNATOR FIELD
+>
+> Alternator and Starter Schematic (Ser. nos. 7425001 through 7425454)
+>
+> AIRPLANE AND SYSTEMS
 
-Alternator and Starter Schematic (Ser. nos. 7425001 through 7425454)
-
-AIRPLANE AND SYSTEMS
-REVISED: JUNE 13, 1974 2-9
-
----
-
-### Page 28
+#### Page 28
 
 STARTER & ACCESSORIES ALTERNATOR FIELD
 i Le} C
 y 3s
 (IN LINE) 9
 
-35
-1
-aan
 1 1
-1‘ i)
+1' i)
 4 t
-bed
 WARN
 CIGAR
 > UGHTER ALT ) LIGHT LAMP
 . CABIN Re
-yl
 LIGHT Lal L
 
 mara a |
 I EXTERNAL |
 | POWER
 f SOLENOID !
-I
 i carck |
-i
 
 1 n |
-i t |
-\ = D |
 ! = 1 1
 | EXTERNAL
 , POWER \
 | RECEPTACLE al |
 
-1
-1
 er OPTIONAL ___J Pox 4
 
 4. ALTERNATOR
@@ -965,30 +841,25 @@ RELAY ENERGIZING CIRCUIT
 MASTER
 aie SWITCH
 
-yo
-
 Alternator and Starter Schematic (Ser. nos. 7525001 and up)
 
 AIRPLANE AND SYSTEMS
 2-9a ISSUED: JUNE 13, 1974
 
----
+#### Page 29
 
-### Page 29
+![Page 29](pages/page-029.jpg)
 
-"AINO ST3AGOW Adv NO
-YOOO TSNWd YAaNVaYs LINDHID
+<sub>*OCR'd labels/captions on this page:*</sub>
 
-Circuit Breaker Panel
+> "AINO ST3AGOW Adv NO
+> YOOO TSNWd YAaNVaYs LINDHID
+>
+> Circuit Breaker Panel
+>
+> AIRPLANE AND SYSTEMS
 
-AIRPLANE AND SYSTEMS
-REVISED: JULY 18, 1975
-
-2-10
-
----
-
-### Page 30
+#### Page 30
 
 The master switch is a split switch with the left half operating the master relay and the
 right half energizing the alternator. The switch is interlocked so that the alternator cannot be
@@ -1040,9 +911,7 @@ alternator, oil pressure or vacuum systems*.
 AIRPLANE AND SYSTEMS
 2-11 REVISED: JUNE 13, 1974
 
----
-
-### Page 31
+#### Page 31
 
 Y¥3L3BW YNOH ANIONS *
 
@@ -1062,7 +931,7 @@ SAHDIT ONINWIG O1GVY *
 OULNOD LW3aH YOLaSUNEUYDS *
 WOOT NOILOIUS *
 
-ANVYOVND STLLOUHL ‘06
+ANVYOVND STLLOUHL '06
 
 YALSNID LNSWNYILSNI °92
 
@@ -1073,27 +942,22 @@ AONVD NOILINS “LI
 
 HOLIMS
 
-we
-
 (cae 62
-n
 
 SNOHdOUXOIW “62
 YAWIod "82
 YALAWOHSVL “Le
 
-ASINHDSHD ‘52
+ASINHDSHD '52
 Y31dNOD INWO *22
 LOMNGOLNY “12
-MOwl ANOHd ‘02
+MOwl ANOHd '02
 MOVl aHIW “6T
 YALHOITYVOIO “SI
 
-HOLDS TSS AUN ‘9I
+HOLDS TSS AUN '9I
 
 ira Ut a2 st Wl 2 Oh Ue rd o st
-
-=
 
 UBAIZO3Y AGU ©
 SUBAISISNVYL AHN *
@@ -1120,51 +984,41 @@ YOLVSIONI ONINYYM TIWLs *
 
 arene Se
 
-Qe Qe
-
 Qesm Qnty
 
 logoogoogn: | &
 
-i
-
 Instrument Panel
 
 AIRPLANE AND SYSTEMS
-REVISED: JULY 18, 1975
 
-2-12
-
----
-
-### Page 32
+#### Page 32
 
 THIS PAGE INTENTIONALLY LEFT BLANK
 
 AIRPLANE AND SYSTEMS
 2-12a ISSUED: JUNE 13, 1974
 
----
+#### Page 33
 
-### Page 33
+![Page 33](pages/page-033.jpg)
 
-VERTICAL SPEED INDICATOR
+<sub>*OCR'd labels/captions on this page:*</sub>
 
-AIRSPEED INDICATOR
-PITOT HEAT
+> VERTICAL SPEED INDICATOR
+>
+> AIRSPEED INDICATOR
+> PITOT HEAT
+>
+> PITOT HEAT SWITCH
+>
+> ALTIMETER
+>
+> Pitot-Static System
+>
+> AIRPLANE AND SYSTEMS
 
-PITOT HEAT SWITCH
-
-ALTIMETER
-
-Pitot-Static System
-
-AIRPLANE AND SYSTEMS
-ISSUED: JULY 6, 1973 2-13
-
----
-
-### Page 34
+#### Page 34
 
 PITOT-STATIC SYSTEM
 
@@ -1209,47 +1063,38 @@ On the Flite Liner, overhead air outlets are not offered as optional equipment.
 AIRPLANE AND SYSTEMS
 2-14 REVISED: APRIL 16, 1979
 
----
+#### Page 35
 
-### Page 35
+![Page 35](pages/page-035.jpg)
 
-TOYLNOD YIv HSaYs
-TOY LNOD NOISH3AIGC LYW4H NIV
+<sub>*OCR'd labels/captions on this page:*</sub>
 
-4LV3H NIGVO 4
+> TOYLNOD YIv HSaYs
+> TOY LNOD NOISH3AIGC LYW4H NIV
+>
+> 4LV3H NIGVO 4
+>
+> ulv HS3d4 4
+>
+> Bani Nivyd *
+> AS NI Ul' HSaud *
+>
+> TOYLNOSD Y31W3H *
+> TOYLNOS 4Y341S0N430 *
+> TANVd HOLIMS YaMO1dE *
+> 4371N0 ¥a1SOusRG "
+> LATINO LSNYHXA NIGWS *
+> 10nd ¥ilv HSaud *
+> ATaWwassy OV3SHW1NE *
+> Y¥3MO18 YI HSAs ~
+>
+> anmwoenaand
+>
+> Heating and Ventilating S
+>
+> AIRPLANE AND SYSTEMS
 
-ulv HS3d4 4
-
-Bani Nivyd *
-AS NI Ul’ HSaud *
-
-zai
-ma
-TOYLNOSD Y31W3H *
-TOYLNOS 4Y341S0N430 *
-TANVd HOLIMS YaMO1dE *
-4371N0 ¥a1SOusRG "
-LATINO LSNYHXA NIGWS *
-10nd ¥ilv HSaud *
-ATaWwassy OV3SHW1NE *
-Y¥3MO18 YI HSAs ~
-
-anmwoenaand
-
-ystem
-
-Heating and Ventilating S
-
-AIRPLANE AND SYSTEMS
-ISSUED: JULY 6, 1973
-
-tn
-
-a
-
----
-
-### Page 36
+#### Page 36
 
 CABIN FEATURES
 
@@ -1261,7 +1106,7 @@ available. Each family seat is capable of carrying a full size adult, which give
 A single strap shoulder harness controlled by an inertia reel is standard equipment for the
 front seats, and is offered as an option for the rear seats when they are installed. The shoulder
 strap is routed over the shoulder adjacent to the windows and attached to the lap strap in the
-general area of the occupant’s inboard hip.
+general area of the occupant's inboard hip.
 
 A check of the inertia reel mechanism is made by pulling sharply on the strap. The reel will
 lock in place under this test and prevent the strap from extending. Under normal movement the
@@ -1301,9 +1146,7 @@ size “Touch-Up” spray paint cans are available from Piper Dealers.
 AIRPLANE AND SYSTEMS
 2-16 : REVISED: JANUARY 21, 1975
 
----
-
-### Page 37
+#### Page 37
 
 AIR CONDITIONING*
 
@@ -1357,11 +1200,8 @@ electrical system.
 *Optional equipment
 
 AIRPLANE AND SYSTEMS
-ISSUED: JULY 6, 1973 2-17
 
----
-
-### Page 38
+#### Page 38
 
 Whenever the throttle is in the full throttle position, it actuates a micro switch which
 disengages the compressor and retracts the scoop. This is done to obtain maximum power and
@@ -1374,35 +1214,25 @@ PIPER EXTERNAL POWER*
 An optional starting installation known as Piper External Power (PEP) is accessible through
 a receptacle located on the right side of the fuselage aft of the wing. An external battery can be
 connected to the socket, thus allowing the operator to crank the engine without having to gain
-access to the airplane’s battery. This installation is not available on the Flite Liner.
+access to the airplane's battery. This installation is not available on the Flite Liner.
 
 *Optional equipment
 
 AIRPLANE AND SYSTEMS
 2-18 ISSUED: JULY 6, 1973
 
----
+## Airplane Flight Manual (FAA Approved)
 
-### Page 39
-
-AIRPLANE FLIGHT MANUAL
+#### Page 39
 
 LOG Of REVISIONS vicsiccssscssssencasansssacesensaviseraneniacennveonseiecuntwuatsecseivessccusaueusevega sein eninaiesaueiieepuseeeittees 3-ili
-TGTTILALIONS:....n--ceacercenennseocersensnnsernedtlsbesheSiisAVEPSILIIT ERTSISs soca cbenaancnrnnentonee anesanenaranmeaneagracnsencarsenatenecaranss 3-]
+TGTTILALIONS: … n--ceacercenennseocersensnnsernedtlsbesheSiisAVEPSILIIT ERTSISs soca cbenaancnrnnentonee anesanenaranmeaneagracnsencarsenatenecaranss 3-]
 PrOCed W068 ccesiisesssanunacncanwnssrescesanencnawvcnncnes esssssssessssesssscsssscessesssssesessssssseseracessecesieeseseesaesnesseesseees 3-7
 Perigrianiee ances men rome 3-9
 
 MUP DICMICM US) verecaeeesccerssesarnsrecees cress coemsacesntsannnesnsenazensasnanerearearatasartaaerceaarscanerscnarseesseeestestessetent arate 3-11
 
----
-
-### Page 40
-
-*(blank)*
-
-### Page 41
-
-Log of Revisions
+#### Page 41
 
 SECTION I
 
@@ -1418,49 +1248,35 @@ ASE TOM BOOP
 
 TABLE OF CONTENTS
 
-Propellers
-Power Instruments...
+Power Instruments … 
 Airspeed Limitations and Airspeed Instrument Markings
-(Calibrated Airspeed) (MPH)...
-Maximum Weight...
-Baggage Capacity....
-C. G. Range...
+(Calibrated Airspeed) (MPH) … 
+Maximum Weight … 
+Baggage Capacity … 
+C. G. Range … 
 Maneuvers .
 Placards
 Air Conditioned Airplanes
 
 ISI 9) 9) (6161 en 3-11
 
-A.
-B.
-C.
-Dz
-
 Electric Pitch Trim Installation
-AutoFlite II Installation.........
+AutoFlite II Installation … 
 
-Air Conditioning Installation ....
+Air Conditioning Installation  … 
 Piper AutoControl III and/or AutoControl IB Installation
 
 FAA APPROVED MAY 14, 1973 REPORT: VB 557 PAGE 3-i
-REVISED: NOVEMBER 1, 1974 MODEL: PA-28-140
 
----
-
-### Page 42
+#### Page 42
 
 THIS PAGE INTENTIONALLY LEFT BLANK
 
 REPORT: VB-557 PAGE 3-ii FAA APPROVED MAY 14, 1973
 MODEL: PA-28-140
 
----
+#### Page 43
 
-### Page 43
-
-AIRPLANE FLIGHT MANUAL LOG OF REVISIONS
-
-FAA Approved
 Revision | Revised Pages Description and Revision
 = Date
 1 Title Added PAC Approval Form. Ww
@@ -1503,16 +1319,11 @@ es any Saran.
 April 19, 1976
 
 FAA APPROVED MAY 14, 1973
-REVISED: APRIL 19, 1976
 
 REPORT: VB-557 PAGE 3-iii
 MODEL: PA-28-140
 
----
-
-### Page 44
-
-AIRPLANE FLIGHT MANUAL LOG OF REVISIONS (cont)
+#### Page 44
 
 Revision | Revised Pages Description and Revision — Approved
 6 Title Added Applicable Serial Numbers. 4
@@ -1525,17 +1336,13 @@ REPORT: VB-557 PAGE 3-iv FAA APPROVED MAY 14, 1973
 
 MODEL: PA-28-140 REVISED: JULY 13, 1984
 
----
-
-### Page 45
+#### Page 45
 
 SECTION I
 
 LIMITATIONS
 
 The following limitations must be observed in the operation of this airplane:
-
-A.
 
 ENGINE
 Lycoming O-320-E2A or O-320-E3D
@@ -1547,8 +1354,6 @@ FUEL
 AVGAS ONLY
 80/87 Octane Aviation Fuel Minimum Grade
 
-PROPELLER
-
 Sensenich M74DM or 74DM6, Maximum diameter 74 inches. minimum diameter 72-1/2
 inches. Static RPM at maximum permissible throttle setting: Not under 2150, not over
 2425 for max. allowable weight of 1950 Ibs. Not under 2275, not over 2425 for max.
@@ -1556,7 +1361,6 @@ allowable weight of 2150 lbs. No additional tolerance permitted.
 
 POWER INSTRUMENTS
 
-OIL TEMPERATURE
 Green Arc (Normal Operating Range)
 Red Line (Maximum)
 
@@ -1576,7 +1380,6 @@ Green Arc (Normal Operating Range)
 Red Line (Maximum Continuous Power)
 
 FAA APPROVED MAY 14, 1973
-REVISED: JULY 13, 1984
 
 75°F to 245°F
 245° F
@@ -1596,9 +1399,7 @@ REVISED: JULY 13, 1984
 REPORT: VB-557 PAGE 3-1
 MODEL: PA-28-140
 
----
-
-### Page 46
+#### Page 46
 
 E. AIRSPEED LIMITATIONS AND AIRSPEED INSTRUMENT MARKINGS (Calibrated
 
@@ -1655,9 +1456,7 @@ REPORT: VB-557 PAGE 3-2 FAA APPROVED MAY 14, 1973
 
 MODEL: PA-28-140
 
----
-
-### Page 47
+#### Page 47
 
 Straight Line variation between given points.
 NOTE
@@ -1712,11 +1511,8 @@ NO ACROBATIC MANEUVERS (INCLUDING SPINS) ARE
 APPROVED FOR NORMAL CATEGORY OPERATIONS.”
 
 FAA APPROVED MAY 14, 1973 REPORT: VB-557 PAGE 3-3
-REVISED: JUNE 13, 1974 MODEL: PA-28-140
 
----
-
-### Page 48
+#### Page 48
 
 2. Models With Air Conditioning or Ventilation Blower
 “THIS AIRPLANE MUST BE OPERATED AS A NORMAL OR
@@ -1760,9 +1556,7 @@ NORMAL TAKEOFF CLIMB PERFORMANCE.”
 REPORT: VB-557 PAGE 3-4 FAA APPROVED MAY 14, 1973
 MODEL: PA-28-140 REVISED: JUNE 13, 1974
 
----
-
-### Page 49
+#### Page 49
 
 Adjacent to upper door latch:
 “ENGAGE LATCH BEFORE FLIGHT.”
@@ -1807,11 +1601,7 @@ LAZY EIGHTS 129 MPH
 CHANDELLES 129 MPH
 FAA APPROVED MAY 14, 1973 REPORT: WB-557 PAGE 3-5
 
-REVISED: NOVEMBER 1, 1974 MODEL: PA-28-140
-
----
-
-### Page 50
+#### Page 50
 
 In full view of the pilot:
 “ROUGH AIR OR MANEUVERING SPEED - 129 MPH.”
@@ -1839,9 +1629,7 @@ Air Conditioner must be off for takeoff and landing.
 REPORT: VB-557 PAGE 3-6 FAA APPROVED MAY 14, 1973
 MODEL: PA-28-140
 
----
-
-### Page 51
+#### Page 51
 
 SECTION II
 
@@ -1857,9 +1645,7 @@ normal takeoff performance.
 FAA APPROVED MAY 14, 1973 REPORT: VB-557 PAGE 3-7
 MODEL: PA-28-140
 
----
-
-### Page 52
+#### Page 52
 
 THIS PAGE INTENTIONALLY LEFT BLANK
 
@@ -1867,11 +1653,9 @@ REPORT: VB-557 PAGE 3-8 FAA APPROVED MaAy 14, 1973
 
 MODEL: PA-28-140
 
----
+#### Page 53
 
-### Page 53
-
-SECTION HI
+SECTION III
 
 PERFORMANCE
 
@@ -1895,9 +1679,7 @@ rate of climb of as much as 100 fpm can be expected at all altitudes.
 FAA APPROVED MAY 14, 1973 REPORT: VB-557 PAGE 3-9
 MODEL: PA-28 140
 
----
-
-### Page 54
+#### Page 54
 
 THIS PAGE INTENTIONALLY LEFT BLANK
 
@@ -1905,13 +1687,9 @@ REPORT: VB-557 PAGE 3-10 FAA APPROVED May 14, 1973
 
 MODEL: PA-28-140
 
----
-
-### Page 55
+#### Page 55
 
 SECTION IV
-
-SUPPLEMENTS
 
 NOTE
 A FLIGHT MANUAL SUPPLEMENT IS REQUIRED TO BE IN
@@ -1927,20 +1705,15 @@ C. Air Conditioner Installation
 D. Piper AutoControl III] and/or AutoControl IIB Installation
 
 FAA APPROVED MAY 14, 1973 REPORT: VB-557 PAGE 3-11
-REVISED: NOVEMBER 1, 1974 MODEL: PA-28-140
 
----
-
-### Page 56
+#### Page 56
 
 THIS PAGE INTENTIONALLY LEFT BLANK
 
 REPORT: VB-557 PAGE 3-12 FAA APPROVED MAyY 14, 1973
 MODEL: PA-28-140
 
----
-
-### Page 57
+#### Page 57
 
 A. ELECTRIC PITCH TRIM INSTALLATION
 
@@ -1958,11 +1731,7 @@ trim.
 altitude variation.
 FAA APPROVED MAY 14, 1973 REPORT: VB-557 PAGE 3-15
 
-REVISED: NOVEMBER 1, 1974 MODEL: PA-28-140
-
----
-
-### Page 58
+#### Page 58
 
 B. AUTOFLITE II INSTALLATION
 
@@ -1971,11 +1740,11 @@ AutoFlite off for takeoff and landing.
 
 2. PROCEDURES
 a. Normal Operation
-Refer to Manufacturer’s Operation Manual.
+Refer to Manufacturer's Operation Manual.
 
 b. Emergency Operation
 
-(1) Incase of malfunction, PRESS disconnect switch on pilot’s control
+(1) Incase of malfunction, PRESS disconnect switch on pilot's control
 wheel.
 
 (2) Rocker switch on instrument panel - OFF.
@@ -1991,18 +1760,13 @@ bank and 0 ft altitude loss.
 REPORT: VB-557 PAGE 3-16 FAA APPROVED MAY 14, 1973
 MODEL: PA-28-140 REVISED: NOVEMBER 1, 1974
 
----
-
-### Page 59
+#### Page 59
 
 THIS PAGE INTENTIONALLY LEFT BLANK
 
 FAA APPROVED MAY 14, 1973 REPORT: VB-557 PAGE 3-17
-REVISED: NOVEMBER 1, 1974 MODEL: PA-28-140
 
----
-
-### Page 60
+#### Page 60
 
 C. AIR CONDITIONER INSTALLATION
 
@@ -2034,9 +1798,7 @@ REPORT: VB-557 PAGE 3-18 FAA APPROVED MAY 14, 1973
 
 MODEL: PA-28-140 REVISED: NOVEMBER 1, 1974
 
----
-
-### Page 61
+#### Page 61
 
 D. PIPER AUTOCONTROL III AND/OR AUTOCONTROL IIIB INSTALLATION
 
@@ -2049,14 +1811,6 @@ b. Autopilot use prohibited above 140 MPH CAS.
 a. PREFLIGHT
 
 (1) Roll Section
-
-(a)
-
-(b)
-
-(c)
-
-(d)
 
 b. IN-FLIGHT
 
@@ -2087,10 +1841,6 @@ and Attitude Gyro are receiving sufficient air.
 
 (3) Roll Section
 
-(a)
-
-(b)
-
 To engage, center Roll Command Knob, place the A/P
 ON/OFF switch to the “ON” position. To turn rotate roll
 command knob in desired direction. (Maximum angle of
@@ -2111,14 +1861,11 @@ be limited to 150°. (HDG Indice not more than 150° from
 actual aircraft heading.)
 
 FAA APPROVED JUNE 13, 1974
-REVISED: NOVEMBER 1, 1974
 
 REPORT: WB-557 PAGE 3-19
 MODEL: PA-28-140
 
----
-
-### Page 62
+#### Page 62
 
 (4) VOR
 (a) To Intercept:
@@ -2185,9 +1932,7 @@ coupler mode selector to OMNI mode.
 REPORT: VB-557 PAGE 3-20 FAA APPROVED JUNE 13, 1974
 MODEL: PA-28-140
 
----
-
-### Page 63
+#### Page 63
 
 NOTE
 
@@ -2202,14 +1947,6 @@ heading is 45° to radial, position coupler mode selector to OMNI
 mode.
 
 (6) LOC Approach Only
-
-(a)
-
-(b)
-
-(c)
-
-(d)
 
 To intercept dial ILS outbound course on Course Selector
 D.G. When stabilized, position coupler mode selector to
@@ -2229,16 +1966,6 @@ approach is elected, position coupler mode selector to HDG
 mode and execute missed approach procedure.
 
 (7) LOC Approach - Back Course (Reverse)
-
-(a)
-
-(b)
-
-(c)
-
-(d)
-
-(e)
 
 FAA APPROVED JUNE 13, 1974
 
@@ -2264,9 +1991,7 @@ Missed approach - same as Front Course. (See (6) d)
 REPORT: VB-557 PAGE 3-21
 MODEL: PA-28-140
 
----
-
-### Page 64
+#### Page 64
 
 c. EMERGENCY OPERATION
 
@@ -2292,35 +2017,29 @@ No change.
 REPORT: VB-557 PAGE 3-22 FAA APPROVED JUNE 13, 1974
 MODEL: PA-28-140 REVISED: JULY 13, 1984
 
----
+## Emergency Procedures (Expanded)
 
-### Page 65
+#### Page 65
 
-EMERGENCY PROCEDURES
+![Page 65](pages/page-065.jpg)
 
-INWORUCION casunemencnnncennannnmnnenu mre naaieen ABIRRIBI tere
-Engine Power Loss During Takeoff ....
-Engine Power Loss In Flight.....
-Power Off Landing
-Spins:-...0«
-Open Door
-PunG eseseescaces
-Loss of Oil Pressure......
+<sub>*OCR'd labels/captions on this page:*</sub>
 
-Loss of Fuel Pressure.......
-High Oil Temperature
-Alternator Failure ..
-Engine Roughness ....
+> INWORUCION casunemencnnncennannnmnnenu mre naaieen ABIRRIBI tere
+> Engine Power Loss During Takeoff  … 
+> Engine Power Loss In Flight … 
+> Power Off Landing
+> Spins:- … 0«
+> Open Door
+> PunG eseseescaces
+> Loss of Oil Pressure … 
+>
+> Loss of Fuel Pressure … 
+> High Oil Temperature
+> Alternator Failure  … 
+> Engine Roughness  … 
 
----
-
-### Page 66
-
-*(blank)*
-
-### Page 67
-
-EMERGENCY PROCEDURES
+#### Page 67
 
 INTRODUCTION
 
@@ -2361,8 +2080,6 @@ MIXTURE - CHECK RICH
 
 CARBURETOR HEAT - ON
 
-° Beg Pe
-
 NOTE
 If engine failure was caused by fuel exhaustion, power will not be
 regained after tanks are switched until empty fuel lines are filled,
@@ -2371,12 +2088,7 @@ which may require up to ten seconds.
 
 If power is not regained, proceed with the POWER OFF LANDING procedure.
 
-EMERGENCY PROCEDURES
-ISSUED: JULY 6, 1973 4-1
-
----
-
-### Page 68
+#### Page 68
 
 ENGINE POWER LOSS IN FLIGHT
 
@@ -2440,12 +2152,9 @@ be at 1000 feet above the field at the downwind position to make a normal approa
 altitude may be lost by widening your pattern, using flaps or slipping, or a combination of
 these.
 
-EMERGENCY PROCEDURES
 4-2 ISSUED: JULY 6, 1973
 
----
-
-### Page 69
+#### Page 69
 
 Touchdowns should normally be made at the lowest possible airspeed, with full flaps.
 
@@ -2498,12 +2207,7 @@ further open, and then close rapidly. Latch top latch.
 
 A slip in the direction of the open door will assist in latching procedure.
 
-EMERGENCY PROCEDURES
-ISSUED: JULY 6, 1973
-
----
-
-### Page 70
+#### Page 70
 
 FIRE
 
@@ -2514,8 +2218,6 @@ smoke, or other indications, since the action to be taken differs somewhat in ea
 SOURCE OF FIRE - CHECK
 
 1.
-
-4-4
 
 Electrical Fire (Smoke in Cabin):
 a. Master Switch - Off
@@ -2537,8 +2239,6 @@ Mixture - Idle Cut-Off
 Heater - Off (In all cases of fire)
 Defroster - Off (In all cases of fire)
 If terrain permits, land immediately.
-
-meaoge
 
 NOTE
 
@@ -2562,12 +2262,7 @@ d. If external fire extinguishing is to be applied:
 (1) Fuel Selector Valves - Off
 (2) Mixture - Idle Cut-Off
 
-EMERGENCY PROCEDURES
-ISSUED: JULY 6, 1973
-
----
-
-### Page 71
+#### Page 71
 
 LOSS OF OIL PRESSURE
 
@@ -2578,7 +2273,7 @@ soon as possible to investigate the cause and prevent engine damage.
 A complete loss of oil pressure indication may signify oil exhaustion or may be the result
 of a faulty gauge. In either case, proceed toward the nearest airport, and be prepared for a
 forced landing. If the problem is not a pressure gauge malfunction, the engine may stop
-suddenly. Maintain altitude until such time as a dead stick landing can be accomplished. Don’t
+suddenly. Maintain altitude until such time as a dead stick landing can be accomplished. Don't
 change power settings unnecessarily, as this may hasten complete power loss.
 
 Depending on the circumstances, it may be advisable to make an off airport landing while
@@ -2606,12 +2301,7 @@ A steady, rapid rise in oil temperature is a sign of trouble. Land at the neares
 let a mechanic investigate the problem. Watch the oil pressure gauge for an accompanying loss
 of pressure.
 
-EMERGENCY PROCEDURES
-ISSUED: JULY 6, 1973 4-5
-
----
-
-### Page 72
+#### Page 72
 
 ALTERNATOR FAILURE
 
@@ -2658,7 +2348,7 @@ proceed accordingly.
 on either magneto, proceed on that magneto at reduced power, with mixture full rich,
 to a landing at the first available airport.
 
-If roughness persists, prepare for a precautionary landing at pilot’s discretion.
+If roughness persists, prepare for a precautionary landing at pilot's discretion.
 NOTE
 
 Partial carburetor heat may be worse than no heat at all, since it
@@ -2668,90 +2358,65 @@ may partially melt ice, which will refreeze in the intake system.
 When using carburetor heat, therefore, always use full heat, and
 when ice is removed return the control to the full cold position.
 
-EMERGENCY PROCEDURES
 4-6 REVISED: JUNE 13, 1974
 
----
+## Weight and Balance
 
-### Page 73
+#### Page 73
 
 INDEX - WEIGHT AND BALANCE
 
-Logof Revisions... 2.2... eee. 5-iii
-Weight and Balance. 1.2... 2... 2.2 ee 5-1
-Weight and Balance Data - Weighing Procedure......................... 5-3
-Weight and Balance «22.2... 2... 2... eee 5-7
-C. G, Range and Weight Instructions... ..........................., 5-8
-Sample Loading Problem .................2.200.0-0.-.0........... 5-9
-Maximum Allowable Baggage... 2.2 ....2.0.0.20..0..-.........0... 5-11
-Equipment List .. 2... ee eee be EEE ode ee ce wee ewe naeeucn.. 5-15
-A. Propeller and Propeller Accessories ......................... 5-15
-B. Engine and Engine Accessories ............................ 5-16
-C. Landing Gear and Brakes ............................... 5-17
-D. Electrical Equipment ..............0................... 5-18
+Logof Revisions …  2.2 …  eee. 5-iii
+Weight and Balance. 1.2 …  2 …  2.2 ee 5-1
+Weight and Balance Data - Weighing Procedure …  5-3
+Weight and Balance «22.2 …  2 …  2 …  eee 5-7
+C. G, Range and Weight Instructions … , 5-8
+Sample Loading Problem  … 2.200.0-0.-.0 …  5-9
+Maximum Allowable Baggage …  2.2  … 2.0.0.20 … 0 … - … 0 …  5-11
+Equipment List  …  2 …  ee eee be EEE ode ee ce wee ewe naeeucn …  5-15
+A. Propeller and Propeller Accessories  …  5-15
+B. Engine and Engine Accessories  …  5-16
+C. Landing Gear and Brakes  …  5-17
+D. Electrical Equipment  … 0 …  5-18
 EL Instruments ©. 2 cca cee a net te ee ec ennne. 5-19
-F. Miscellaneous ..........222..0...................000- 5-20
-G. Engine and Engine Accessories (Optional Equipment). ..........0... 5-21
-H. Electrical Equipment (Optional Equipment) .................... 5-22
-L. Instruments (Optional Equipment) ......................... 5-24
-J. Autopilots (Optional Equipment) .......................... 5-25
-K. Radio Equipment (Optional Equipment) ...................... 5-26
-L. Miscellaneous (Optional Equipment) ...........2............. 5-29
-ISSUED: MAY 14, 1973 REPORT: VB-546 PAGE 5-i
+F. Miscellaneous  … 222 … 0 … 000- 5-20
+G. Engine and Engine Accessories (Optional Equipment).  … 0 …  5-21
+H. Electrical Equipment (Optional Equipment)  …  5-22
+L. Instruments (Optional Equipment)  …  5-24
+J. Autopilots (Optional Equipment)  …  5-25
+K. Radio Equipment (Optional Equipment)  …  5-26
+L. Miscellaneous (Optional Equipment)  … 2 …  5-29
 
 MODEL: PA-28-140
 
----
-
-### Page 74
+#### Page 74
 
 THIS PAGE INTENTIONALLY LEFT BLANK
 
 REPORT: VB-546 PAGE S-ii ISSUED: MAY 14, 1973
 MODEL: PA-28-140
 
----
-
-### Page 75
-
-WEIGHT AND BALANCE LOG OF REVISIONS
+#### Page 75
 
 Revision
-
-Revised Pages
 
 Description and Revision
 
 Approved Date
 
-5-28
-
-5-29
-
-5-30
-
 Title
 
-Revised Oil Cooler Weight and Moment.
-
-Revised Voltage Regulator Weight and
 Moment; Revised Battery Weight and
 Moment.
 
-Revised Baggage Tie Down Straps Weight and
 Moment; Revised Toe Brakes Weight and
 Moment and added dwg. no.
 
-Revised Battery Weight and Moment.
-
-Revised Narco Audio Panel Weight, Arm and
 Moment; Revised MBT-12-R Marker
 Beacon Weight, Arm and Moment.
 
-Revised -10, -12 Microphone Weights, Arms
 and Moments.
 
-Revised Nose Wheel Fairing and Main Wheel
 Fairing Weights, Arms and Moments;
 Changed Jump Seat to -4 Install.; Revised
 Ash Trays Weight and Moment.
@@ -2759,7 +2424,7 @@ Ash Trays Weight and Moment.
 Removed Baggage Tie Down Straps; Revised
 Right and Left Vert, Adj. Front Seat
 
-’ Weights, Arms and Moments; Revised
+' Weights, Arms and Moments; Revised
 Ground Vent. Blower; Added Corrosive
 Resistant Kit
 
@@ -2772,7 +2437,6 @@ DO NOT REQUIRE THIS REVISION.)
 Added Oil Filters and footnote.
 
 Added Annunciator Lights and footnote.
-Revised Inertia Safety Belts weights,
 moment and part no.
 
 Added Airborne Vacuum Pump (PAC 79399-0):
@@ -2780,7 +2444,7 @@ Added Airborne Vacuum Pump (PAC 79399-0):
 added Low Vacuum Annunciator Light;
 added Airborne Vacuum Regulator
 
-(‘2H3-19); added footnotes.
+('2H3-19); added footnotes.
 
 Added Overhead Red Panel Lights and Instru-
 ment Panel Lights.
@@ -2799,57 +2463,33 @@ Bae
 
 June 13, 1974
 
-a
-
-ISSUED: MAY 14, 1973
-
-REVISED: JUNE 13, 1974
-
 REPORT: VB-546 PAGE 5-iii
 
 MODEL: PA-28-140
 
----
-
-### Page 76
-
-WEIGHT AND BALANCE LOG OF REVISIONS (cont)
+#### Page 76
 
 Revision Description and Revision
 
-Revised Pages
-
 Approved pee |
 
-Revised nomenclature (King KX175); added
 footnote.
 
 Added footnote.
 
-Revised nomenclature (King KMA-20 Audio
 Panel).
 
 Added pages (info for ser. nos. 7525001 and
-up).
 
-Revised Inertia Safety Belts part no.,
 revised Assist Strap and Coat Hook dws.
 no., added Assist Strap.
 
 3 (cont)
 
-Revised Utility Category Aft C.G. Limit.
-Revised Airborne Vacuum Pump Moment.
-Revised King Dual KNI-520 Weight.
-
-Revised equations.
 Added two Overhead Vent Systems.
-
-Revised C.G. Range and Weight graph.
 
 Deleted Chrysler Alternator.
 
-Revised Dwg. No. (Piper Pitch Trim) to -2:
 added -3; added footnote.
 
 Added Engine Hour Meter and footnote.
@@ -2860,11 +2500,7 @@ Headrest. :
 
 Added Stainless Steel Control Cables.
 
-Revised Rotating Beacon desc.
-
-Revised Clock.
-Revised Automatic Locator Transmitter.
-Added KN61 and KN65A DME’s.
+Added KN61 and KN65A DME's.
 
 Added Automatic Locator Transmitter.
 
@@ -2876,29 +2512,16 @@ May 16, 1975
 
 copachl,
 
-otal
-
 July 18, 1975
 
 Nov. 27, 1975
 
-chk
-
 July 19, 1976
-
-CHR aht:
 
 REPORT: VB-546 PAGE 5-iv
 MODEL: PA-28 140
 
-ISSUED: MAY 14, 1973
-REVISED: JULY 19, 1976
-
----
-
-### Page 77
-
-WEIGHT AND BALANCE LOG OF REVISIONS (cont)
+#### Page 77
 
 Revision | Revised Pages Description and Revision Approved Date
 10 Title Added Applicable Serial Numbers. Sept. 30, 1977
@@ -2920,40 +2543,29 @@ oil cooler description: added ending serial
 effectivity.
 5-18, Added ending serial number effectivity.
 5-21,
-5-22
 5-24 Revised Encoding Altimeter Moment:
 added ending serial number effectivity.
 5-25 Added ending serial number effectivity.
 5-26 Revised King KI 214(_ ) VOR/LOC/GS
 Ind. Moment.
 5-28a, Added ending serial number effectivity.
-5-28b
 5-28¢ Revised Sense Antenna and Cable #1
 
 Moment; added ending serial number
 effectivity.
 
-ISSUED: SEPTEMBER 30, 1977
-REVISED: JULY 13, 1984
-
 REPORT: VB-546 PAGE 5-v
 
 MODEL: PA-28-140
 
----
-
-### Page 78
+#### Page 78
 
 THIS PAGE INTENTIONALLY LEFT BLANK
 
 REPORT: VB-546 PAGE 5-vi ISSUED: SEPTEMBER 30, 1977
 MODEL: PA-28-140
 
----
-
-### Page 79
-
-WEIGHT AND BALANCE
+#### Page 79
 
 In order to achieve the performance and flying characteristics which are designed into the
 airplane, it must be flown with the weight and center of gravity (C.G.) position within the approved
@@ -2994,12 +2606,7 @@ licensed empty weight, C.G. position, and useful load. Note that the useful load
 fuel, baggage, cargo and passengers. Following this is the method for computing takeoff weight
 and C.G.
 
-ISSUED: MAY 14,1973 REPORT: VB-546 PAGE 5-1
-REVISED: JULY 13, 1984 MODEL: PA-28-140
-
----
-
-### Page 80
+#### Page 80
 
 THIS PAGE INTENTIONALLY LEFT BLANK
 
@@ -3007,9 +2614,7 @@ REPORT: VB-546 PAGE 5-2 ISSUED: MAY 14, 1973
 
 MODEL: PA-28-140
 
----
-
-### Page 81
+#### Page 81
 
 WEIGHT AND BALANCE DATA
 
@@ -3041,8 +2646,6 @@ plenished it will be necessary to run the engine for a minimum of 3
 minutes at 1000 RPM on each tank to insure no air exists in the fuel
 supply lines.
 
-d,
-
 Drain all oil from the engine by means of the oil drain. with the airplane in
 ground attitude. This will leave the undrainable oil still in the system.
 Engine oil temperature should be in the normal operating range before
@@ -3060,13 +2663,8 @@ due to wind.
 
 a. With airplane on scales, block main gear oleo pistons in the fully extended
 position.
-ISSUED: MAY 14, 1973 REPORT: VB-546 PAGE 5-3
 
-REVISED: JULY 13, 1984 MODEL: PA-28-140
-
----
-
-### Page 82
+#### Page 82
 
 b. Level airplane (see diagram) by deflating nose wheel tire, to center bubble
 on level.
@@ -3092,12 +2690,9 @@ C. G. Arm Level Points
 (Fuselage Left Side)
 
 —t ic ; ee
-—F
 
 Wing Leading Edge
 
-— A
-B
 The datum is 78.4 inches ahead
 
 of the wing leading edge at the
@@ -3109,9 +2704,7 @@ Datum
 REPORT: VB-546 PAGE 5-4 ISSUED: MAY 14, 1973
 MODEL: PA-28-140 REVISED: APRIL 16, 1979
 
----
-
-### Page 83
+#### Page 83
 
 b. Obtain measurement “A” by measuring from a plumb bob dropped from
 the wing leading edge, at the intersection of the straight and tapered
@@ -3127,9 +2720,7 @@ equipment and undrainable oil) can be determined by the following
 
 formula:
 C.G. Arm = 78.4+ A - B(N
-T
 C. G. Arm = 78.4 + ( )- ) = inches
-( )
 
 5. LICENSED EMPTY WEIGHT AND EMPTY WEIGHT CENTER OF GRAVITY
 
@@ -3137,13 +2728,8 @@ Weight Arm Moment
 Empty Weight (as weighed)
 Unusable Fuel (3 pints) +2.2 103.0 +227
 Licensed Empty Weight
-ISSUED: MAY 14, 1973 REPORT: VB-546 PAGE 5-5
 
-REVISED: JANUARY 21, 1975 MODEL: PA-28-140
-
----
-
-### Page 84
+#### Page 84
 
 THIS PAGE INTENTIONALLY LEFT BLANK
 
@@ -3151,9 +2737,7 @@ REPORT: VB-546 PAGE 5-6 ISSUED: MAY 14, 1973
 
 MODEL PA-28-140
 
----
-
-### Page 85
+#### Page 85
 
 WEIGHT AND BALANCE DATA
 
@@ -3178,10 +2762,6 @@ Licey#ed Empty al 1365.7 85.1 116237
 
 1.8 Ibs ugar inable engine off.
 
-<
-i)
-a
-
 Normal Categgty: (2150 Ibs) - (1365.7 Ibs) =784.3 Ibs
 
 AIRPLANE USEFUL LOAD
@@ -3194,18 +2774,9 @@ THIS AICENSED EMPTY WEIGHT, C. G. AND USEFUL LOAD ARE FOR THE
 AS DELIVERED FROM THE FACTORY. REFER TO BEERORRIATE:
 AIRCRAFT RECORD WHEN ALTERATIONS HAVE BEEN MADE.
 
-es
-
-ISSUED: MAY 14, 1973 : REPORT: VB-546 PAGE 5-7
 MODEL: PA-28-140
 
----
-
-### Page 86
-
-*(blank)*
-
-### Page 87
+#### Page 87
 
 WEIGHT AND BALANCE DATA
 
@@ -3242,24 +2813,15 @@ Normal Category: (2150 Ibs) - (
 
 Utility Category: (1950 Ibs) - (
 
-Ibs) = Ibs
-
-Tbs) = lbs
-
 THIS LICENSED EMPTY WEIGHT, C.G. AND USEFUL LOAD ARE FOR THE
 AIRPLANE AS LICENSED AT THE FACTORY. REFER TO APPROPRIATE AIRCRAFT
 
 RECORD WHEN ALTERATIONS HAVE BEEN MADE.
 
-ISSUED: MAY 14, 1973
-REVISED: JULY 13, 1984
-
 REPORT: VB-546 PAGE 5-7
 MODEL: PA-28-140
 
----
-
-### Page 88
+#### Page 88
 
 C. G. RANGE AND WEIGHT INSTRUCTIONS
 
@@ -3283,13 +2845,10 @@ REPORT: VB-546 PAGE 5-8 ISSUED: MAY 14, 1973
 
 MODEL: PA-28-140
 
----
-
-### Page 89
+#### Page 89
 
 SAMPLE LOADING PROBLEM (Normal Category)
 
-Arm Aft
 Weight Datum Moment
 (Lbs) (Inches) (In-Lbs)
 Licensed Empty Weight
@@ -3317,8 +2876,6 @@ THAT THE AIRPLANE IS LOADED PROPERLY.
 
 Normal Category Operation
 
-ISSUED: MAY 14, 1973
-
 No baggage or aft passengers allowed.
 See Page 5-1}.
 
@@ -3326,9 +2883,7 @@ REPORT: VB-546 PAGE 5-9
 
 MODEL: PA-28-140
 
----
-
-### Page 90
+#### Page 90
 
 THIS PAGE INTENTIONALLY LEFT BLANK
 
@@ -3336,217 +2891,131 @@ REPORT: VB-546 PAGE 5-10 ISSUED: MAY 14, 1973
 
 MODEL: PA-28-140
 
----
+#### Page 91
 
-### Page 91
+![Page 91](pages/page-091.jpg)
 
-AXIM ALLOWABLE BAGGAGE
+<sub>*OCR'd labels/captions on this page:*</sub>
 
-A. Maximum Allowable Baggage Capacity Area ® = 200 lbs.
-B. Maximum Allowable Baggage Capacity Area @ = 100 lbs.
-Aircraft are eligible for 100-Ib maximum baggage in this
+> AXIM ALLOWABLE BAGGAGE
+>
+> A. Maximum Allowable Baggage Capacity Area ® = 200 lbs.
+> B. Maximum Allowable Baggage Capacity Area @ = 100 lbs.
+> Aircraft are eligible for 100-Ib maximum baggage in this
+>
+> area when modified in accordance with Piper drawing
+> 66671.
+>
+> MODEL: PA-28-140
 
-area when modified in accordance with Piper drawing
-66671.
-
-ISSUED: MAY 14, 1973 REPORT: VB-546 PAGE 5-11
-MODEL: PA-28-140
-
----
-
-### Page 92
+#### Page 92
 
 THIS PAGE INTENTIONALLY LEFT BLANK
 
 REPORT: VB-546 PAGE 5-12 ISSUED: MAY 14, 1973
 MODEL: PA-28-140
 
----
+#### Page 93
 
-### Page 93
+![Page 93](pages/page-093.jpg)
 
-LOADING GRAPH
+<sub>*OCR'd labels/captions on this page:*</sub>
 
-S
-450 &,
-&
-Ci
-&
-x08 & L . OF
-= NY vA
-S
-#66 WS of) A
-= Co] oe
-a Oy g WA
-a “e ee 9”
-2 Z &
-> 300 &
-rs) Tf
-€ AA Or 4
-= LL Z
-a: = 7 7
-es AA LS
--_— LANA
-é 7
-a - y VA
-150 Ao)
-VY nw
-LA eo
-ro eat
-wZ
-- IZ
-Vi
-0
-5 10 15 20 25 30 35 40 45 50
-MOMENT/1000 (POUNDS-INCHES)
-ISSUED: MAY 14, 1973 REPORT: VB-546 PAGE 5-13
+> LOADING GRAPH
+>
+> 450 &,
+> x08 & L . OF
+> #66 WS of) A
+> a Oy g WA
+> a “e ee 9”
+> 2 Z &
+> > 300 &
+> € AA Or 4
+> a: = 7 7
+> es AA LS
+> -_— LANA
+> é 7
+> a - y VA
+> 150 Ao)
+> 5 10 15 20 25 30 35 40 45 50
+> MOMENT/1000 (POUNDS-INCHES)
+>
+> MODEL: PA-28-140
 
-MODEL: PA-28-140
+#### Page 94
 
----
+![Page 94](pages/page-094.jpg)
 
-### Page 94
+<sub>*OCR'd labels/captions on this page:*</sub>
 
-WEIGHT IN POUNDS
+> WEIGHT IN POUNDS
+>
+> Cc. G. RANGE AND WEIGHTS
+>
+> x, Normal Category
+> 2000 . LY
+> 1800 f
+> / Utility Category
+>
+> 84 86 88 90 2 94
+> INCHES AFT DATUM
+>
+> REPORT: VB-546 PAGE 5-14
+> MODEL: PA-28-140
 
-CHEROKEE CRUISER
+## Operating Instructions
 
-Cc. G. RANGE AND WEIGHTS
-
-2200
-x, Normal Category
-"a
-Z
-2000 . LY
-"4
-1800 f
-/ Utility Category
-
-1600
-
-1400
-
-1200
-
-84 86 88 90 2 94
-INCHES AFT DATUM
-
-REPORT: VB-546 PAGE 5-14
-MODEL: PA-28-140
-
-ISSUED: MAY 14, 1973
-REVISED: MAY 16, 1975
-
----
-
-### Page 95
-
-OPERATING INSTRUCTIONS
+#### Page 95
 
 Preflight
-Starting Engine ..
+Starting Engine  … 
 
 Starting Engine When Cold.
 
-Starting Engine When Hot...
+Starting Engine When Hot … 
 
 Starting Engine When Flooded
 
-Starting Engine With External Power Source....
+Starting Engine With External Power Source … 
 Warm-Up
-Ground Check...
+Ground Check … 
 Takeoff
 Climb
 Stalls .
-Cruising ...
+Cruising  … 
 Turbulent Air Operation .
 Maneuvers cvscusrcavcaswons
-Approach and Landing ...
+Approach and Landing  … 
 Stopping Engine
 Airspeed Data
-Mooring ............
 Weight and Balance .
-Air Conditioning...
-Air Conditioner Operational Check Procedure ..
+Air Conditioning … 
+Air Conditioner Operational Check Procedure  … 
 Air Conditioner Effects on Airplane Performance
 Emergency Locator Transmitter
 
----
-
-### Page 96
-
-*(blank)*
-
-### Page 97
-
-OPERATING INSTRUCTIONS
+#### Page 97
 
 PREFLIGHT
 
 The airplane should be given a thorough visual inspection prior to each flight. Particular
 attention should be given to the following items:
+1. Release seat belt securing control wheel.
+2. Master switch ON.
+3. Check fuel quantity indicators (two tanks).
+4. Master switch and ignition OFF.
+5. Check for external damage, operation interference of control surfaces or hinges.
+6. Insure that wings and control surfaces are free of snow, ice or frost.
+7. Visually check fuel supply, secure caps.
+8. Drain all fuel system sumps and lines and check for water, sediment and proper fuel. (See Fuel System Section for procedure.)
+9. Check that fuel system vents are open.
+10. Check landing gear shock struts for proper inflation (approximately 4-1, 2 inches).
+11. Check tires for cuts, wear and proper inflation.
+12. Check brake blocks and discs for wear and damage.
 
-le Release seat belt securing control wheel.
-Master switch ON.
-Check fuel quantity indicators (two tanks).
-Master switch and ignition OFF.
-Check for external damage, operation interference of control surfaces or hinges.
-Insure that wings and control surfaces are free of snow, ice or frost.
-Visually check fuel supply, secure caps.
-Drain all fuel system sumps and lines and check for water, sediment and proper
-fuel. (See Fuel System Section for procedure.)
-Check that fuel system vents are open.
-Check landing gear shock struts for proper inflation (approximately 4-1, 2 inches).
-Check tires for cuts, wear and proper inflation.
-Check brake blocks and discs for wear and damage.
-
-to
-TP rTP anaPp
-
-ogPe
-
-panna Ge=--
-=)
-
-1
-i
->
-1
-1
-a
-
-“1
-)
-t
-
-oe
-if
-'
-
-OPERATING INSTRUCTIONS
-REVISED: JULY 13, 1984 72
-
--_
-
----
-
-### Page 98
+#### Page 98
 
 Se i@e
-b.
-&:
-d.
-e.
-f.
-g.
-h.
-i.
-6. a.
-b.
-7. a.
-b.
-iG.
-d.
 
 Inspect windshield for cleanliness.
 
@@ -3615,7 +3084,6 @@ the engine fires move the throttle to desired setting.
 
 STARTING ENGINE WHEN FLOODED
 
-it
 2.
 3%
 
@@ -3623,12 +3091,7 @@ Open the throttle full.
 Tum the master switch ON.
 Turn the electric fuel pump OFF.
 
-OPERATING INSTRUCTIONS
-REVISED: JUNE 3,1977
-
----
-
-### Page 99
+#### Page 99
 
 4. Put mixture control in IDLE CUT-OFF.
 5. Engage the starter by rotating magneto switch clockwise and pressing in. When
@@ -3688,12 +3151,7 @@ Check vacuum gauge; indicator should read 5" + .1” Hg at 2000 RPM.
 
 * Optional equipment
 
-OPERATING INSTRUCTIONS
-ISSUED: JULY 6, 1973 7-3
-
----
-
-### Page 100
+#### Page 100
 
 Check both the oil temperature and pressure. The temperature may be low for some time
 if the engine is being run for the first time of the day, but as long as the pressure is within limits,
@@ -3752,12 +3210,9 @@ retract the flaps while climbing out.
 
 *Serial nos. 28-7525001 through 28-7625275
 
-OPERATING INSTRUCTIONS
 7-4 REVISED: JULY 13, 1984
 
----
-
-### Page 101
+#### Page 101
 
 Soft Field, No Obstacle:
 
@@ -3809,12 +3264,7 @@ To lean the mixture, pull the mixture control until the engine becomes rough, in
 that the lean mixture limit has been reached in the leaner cylinders. Then enrich the mixture by
 pushing the control towards the instrument panel until engine operation becomes smooth.
 
-OPERATING INSTRUCTIONS
-REVISED: APRIL 19, 1976 7-5
-
----
-
-### Page 102
+#### Page 102
 
 The continuous use of carburetor heat during cruising flight decreases engine efficiency.
 Unless icing conditions in the carburetor are severe, do not cruise with the heat on. Apply full
@@ -3876,12 +3326,9 @@ runway should be varied according to the landing surface and existing conditions
 windwise and loadwise. It is generally good practice to contact the ground at the minimum
 possible safe speed consistent with existing conditions.
 
-OPERATING INSTRUCTIONS
 7-6 REVISED: APRIL 19, 1976
 
----
-
-### Page 103
+#### Page 103
 
 Normally, the best technique for short and slow landings is to use full flaps and enough
 power to maintain the desired airspeed and approach flight path. Mixture should be full rich,
@@ -3896,7 +3343,7 @@ normal speeds with partial or no flaps.
 
 STOPPING ENGINE
 
-At the pilot’s discretion, the flaps should be raised and the electric fuel pump turned off.
+At the pilot's discretion, the flaps should be raised and the electric fuel pump turned off.
 After parking, the air conditioner and radios should be turned off and the engine stopped by
 pulling the mixture control to idle cut-off. The throttle should be left full aft to avoid engine
 vibration while stopping. Then the magneto and master switches should be turned off and the
@@ -3916,20 +3363,13 @@ IAS-MPH 60 70 80 90 100 110 120 130 140, 150
 
 CAS - MPH 66 ce 8
 
-tes
-
 92 101 110 119 128 137 146
 
 Flaps 40°
 IAS - MPH 60 70 80 90 100 110 120
 CAS-MPH 64 2 81 90 99 108 117
 
-OPERATING INSTRUCTIONS
-REVISED: JUNE 13, 1974 7-7
-
----
-
-### Page 104
+#### Page 104
 
 MOORING
 
@@ -3940,8 +3380,6 @@ should be secured by looping the seat belt through the control wheel and pulling
 rudder is held in position by its connections to the nose wheel steering, and normally does not
 have to be secured. The flaps are locked when in the full up position, and should be left
 retracted.
-
-WEIGHT AND BALANCE
 
 It is the responsibility of the owner and pilot to determine that the airplane remains within
 the allowable weight vs. center of gravity envelope while in flight. For weight and balance data
@@ -3983,12 +3421,9 @@ suspected.
 
 * Optional equipment
 
-OPERATING INSTRUCTIONS
 7-8 ISSUED: JULY 6, 1973
 
----
-
-### Page 105
+#### Page 105
 
 Air Conditioner Controls
 
@@ -4012,12 +3447,7 @@ operation, these changes should be considered in preflight planning. To be conse
 following figures assume that the compressor is operating continuously while the airplane is
 airborne. This will be the case only in extremely hot weather.
 
-OPERATING INSTRUCTIONS
-ISSUED: JULY 6, 1973 7-9
-
----
-
-### Page 106
+#### Page 106
 
 1. The decrease in true airspeed is approximately 5 mph at 75% power and 4 mph at
 50% power.
@@ -4070,12 +3500,9 @@ been activated for any reason, or to discontinue transmission.
 
 * Optional equipment
 
-OPERATING INSTRUCTIONS
 7-10 REVISED: APRIL 16, 1979
 
----
-
-### Page 107
+#### Page 107
 
 NOTE
 
@@ -4084,12 +3511,12 @@ reason, the “OFF” position has to be selected before selecting
 “ARM.” If “ARM” is selected directly from the “ON” position,
 the unit will continue to transmit in the “ARM” position.
 
-A pilot’s remote switch, located on the left side panel, is provided to allow the transmitter
+A pilot's remote switch, located on the left side panel, is provided to allow the transmitter
 to be controlled from inside the cabin.
 
 1.
 
-On some models the pilot’s remote switch has three positions and is placarded “ON,”
+On some models the pilot's remote switch has three positions and is placarded “ON,”
 “AUTO/ARM,” and “OFF/RESET.” The switch is normally left in the
 “AUTO/ARM” position. To turn the transmitter off, move the switch momentarily
 to the “OFF/RESET” position. The aircraft master switch must be “ON” to turn the
@@ -4097,7 +3524,7 @@ transmitter “OFF.” To activate the transmitter for tests or other reasons, m
 switch upward to the “ON” position and leave it in that position as long as
 transmission is desired.
 
-On other models the pilot’s remote switch has two positions and is placarded
+On other models the pilot's remote switch has two positions and is placarded
 “ON/RESET” and “ARM (NORMAL POSITION).” The switch is normally left in the
 down or “ARM” position. To turn the transmitter off, move the switch to the
 “ON/RESET” position for one second then return it to the “ARM” position. To
@@ -4105,7 +3532,7 @@ activate the transmitter for tests or other reasons, move the switch upward to t
 “ON/RESET™ position and leave it in that position as long as transmission is desired.
 
 The locator should be checked during the ground check to make certain the unit has not
-been ‘accidentally activated. Check by tuning a radio receiver to 121.5 MHz. If there is an
+been 'accidentally activated. Check by tuning a radio receiver to 121.5 MHz. If there is an
 oscillating sound, the locator may have been activated and should be turned off immediately.
 Reset to the “ARM” position and check again to insure against outside interference.
 
@@ -4117,24 +3544,13 @@ of any hour and limited to three audio sweeps. If tests must be
 made at any other time, the tests should be coordinated with the
 nearest FAA tower or flight service station.
 
-OPERATING INSTRUCTIONS
-REVISED: JUNE 3, 1977 7-11
+## Operating Tips
 
----
-
-### Page 108
-
-*(blank)*
-
-### Page 109
-
-OPERATING TIPS
+#### Page 109
 
 The following Operating Tips are of particular value in the operation of the Cherokee 140.
 
 1.
-
-2
 
 Learn to trim for takeoff so that only a very light back pressure on the wheel is
 required to lift the airplane off the ground.
@@ -4174,20 +3590,9 @@ above 12,000 feet, (2) Low engine RPM, usually on approach or during
 training maneuvers. This is normal and should not be considered a
 malfunction.
 
-aor
-
 * Serial nos. 28-7525001 through 28-7625275
 
-OPERATING TIPS
-REVISED: JULY 13, 1984 8-1
-
----
-
-### Page 110
-
-8-2
-
-Te
+#### Page 110
 
 The shape of the wing fuel tanks is such that in certain maneuvers the fuel may move
 away from the tank outlet. If the outlet is uncovered, the fuel flow will be
@@ -4221,26 +3626,21 @@ When leaning, careful observation of the temperature instruments should be pract
 When alternate fuels are used, the engine should be run up to 1200 RPM for one
 minute prior to shutdown to clean out any unburned fuel.
 
-OPERATING TIPS
-REVISED: APRIL 19, 1976
+## Performance Charts
 
----
+#### Page 111
 
-### Page 111
-
-PERFORMANCE CHARTS
-
-Altitude Conversion Chart....
-Takeoff Performance ..........--
-Climb Performance.....
-Engine Performance ...
-Cruise Performance - True Airspeed....
+Altitude Conversion Chart … 
+Takeoff Performance  … --
+Climb Performance … 
+Engine Performance  … 
+Cruise Performance - True Airspeed … 
 Cruise Performance - Range (Standard Fuel Capacity)
 Cruise Performance - Range (Maximum Fuel Capacity)
-Glide Performance ..........cceceseeseeeeeteneee
+Glide Performance  … cceceseeseeeeeteneee
 
 Stall Speed vs Aircraft Gross Weight
-Stall Speed vs Angle of Bank..
+Stall Speed vs Angle of Bank … 
 Landing Performance
 
 WARNING
@@ -4249,647 +3649,221 @@ PERFORMANCE INFORMATION DERIVED BY EXTRAPO-
 LATION BEYOND THE LIMITS SHOWN ON THE CHARTS
 SHOULD NOT BE USED FOR FLIGHT PLANNING PURPOSES.
 
-D
-
 X02 19 10 0 0 0 0 0 0 10 10
 HSK OWMDNAUHAWNH
 
 = 2
 
----
+#### Page 113
 
-### Page 112
+![Page 113](pages/page-113.jpg)
 
-*(blank)*
+#### Page 114
 
-### Page 113
+![Page 114](pages/page-114.jpg)
 
-PA-28-140
-CHEROKEE
+#### Page 115
 
-| |
+![Page 115](pages/page-115.jpg)
 
-ALTITUDE CONVERSION CHART
+<sub>*OCR'd labels/captions on this page:*</sub>
 
-Pet oP ToT TT Ty
-
-THIS CHART SHOULD BE USED TO
-DETERMINE DENSITY ALTITUDE
-
-FROM EXISTING TEMPERATURE
-
-AND PRESSURE ALTITUDE CONDITIONS
-FOR USE WITH PERFORMANCE CHARTS.
-
-24000
-Ly
-20000 aT) ute = SS
-x
-TEMP.\, ness aaa
-fe \ pod 5; | |_
-, 16000 = 5 = =
-=I | aa — |L—| be ||
-= | vin0d | >a
-> 12000 a
-a | J+ | FX git 7 _+T |
-Fe r\ >
-a [1 L—| good |
-8000 te}. 7 a — Soa =
-L— 4] gunk — 4
-— ——
-LT T Li
-4000 — am IN aad
-an Baa aap
-—
-sg. KX | a 4] 4
--40 20 0 20 40 60 80 100
-
-PERFORMANCE CHARTS
-ISSUED: JULY 6, 1973
-
-TEMPERATURE - °F
-
----
-
-### Page 114
-
-FEET
-
-DENSITY ALTITUDE -
-
-7000
-
-6000
-
-5000
-
-4000
-
-3000
-
-2000
-
-1000
-
-761 555
-
-PA-28-140
-CHEROKEE
-
-EXTRAPOLATION OF CHART ABOVE 7000 FT. tS INVALID
-
-FLAPS 0°
-
-PAVED LEVEL DRY RUNWAY
-FULL POWER BEFORE BRAKE RELEASE =
-
-ZERO WIND
-
-|
-
-| TAKEOFF PERFORMANCE
-
-|
-
-4
-
-GROSS WEIGHT
-
-i
-
-|
-/ T
-
-fH 1950 LBS. |
-/| ~-- 7150 LBS. |
-
-|
-
-VIA
-
-|
-|
-7
-
-|
-|
-ae
-
-WITT
-LA
-
-/
-
-yi /
-
-S
-
-a
-S
-=
+> PA-28-140
+> CHEROKEE
 >
-Ss
-a
-&
-
-“i
-
-|
-
-1
-4
-/
-
-/ i AIRSPEED THROUGH 50 FEET
-
-1950 LBS. - 72 MPH CAS
-2150 LBS. - 76 MPH CAS
-
-me [AA |
-! k | |
-
-TAKE — OFF DISTANCE -
-
-FEET
-
-NOTE: SEE SECTION 7 FOR EFFECTS OF AIR CONDITIONING
-
-INSTALLATION ON PERFORMANCE.
-
-PERFORMANCE CHART
-REVISED: JUNE 13, 1974
-
----
-
-### Page 115
-
-PA-28-140
-CHEROKEE
-
-5 climes PERFORMANCE
-TAKEOFF GROSS WEIGHT 2150 LBS.
-FLAPS 0°
-POWER - FULL THROTTLE
-MIXTURE - LEAN PER LYCOMING INSTRUCTIONS
-893 MPH CAS
-
-14000
-
-12000
-
-10000
-sooo q
-=
-—
-= (6000 \
-5 \
-nn
-Fe
-= 46800 \
-
-2000 \
-
-4
-5 200 400 600 800
-RATE OF CLIMB-FEET PER MINUTE
-NOTE: SEE SECTION 7 FOR EFFECTS OF AIR CONDITIONING
-INSTALLATION ON PERFORMANCE.
-PERFORMANCE CHARTS
-
-REVISED: JUNE 13, 1974 9-3
-
----
-
-### Page 116
-
-PA-28-140
-CHEROKEE
-ENGINE PERFORMANCE
-
-GROSS WEIGHT 2150 LBS.
-WHEEL FAIRINGS INSTALLED
-MIXTURE - LEAN PER LYCOMING INSTRUCTIONS
-
-t BEST POWER
-
-| | |
-
-TI
-
-761 555
-
-14000
-
-12000 :
-
-10000 L
-
-rN
-
-8000
-
-DENSITY ALTITUDE, FEET
-OW ep
-PTS
-
-l
-«Ih
-NN
-MN
-
-6000 s/
-s = /
-s_ | ef
-4000 7 = FY
-ae x
-
+> 5 climes PERFORMANCE
+> TAKEOFF GROSS WEIGHT 2150 LBS.
+> FLAPS 0°
+> POWER - FULL THROTTLE
+> MIXTURE - LEAN PER LYCOMING INSTRUCTIONS
+> 893 MPH CAS
 >
-Uy) ,
-
-PS
-$5
-os
-
-2000 ne
-x
-JL J
-2000 ©2100 2200 2300 2400 2500 2600 2700
-ENGINE R. P. M.
-
-NOTE: SEE SECTION 7 FOR EFFECTS OF AIR CONDITIONING
-INSTALLATION ON PERFORMANCE.
-
-PERFORMANCE CHARTS
-9-4 REVISED: JUNE 13, 1974
-
----
-
-### Page 117
-
-PA-28-140
-CHEROKEE
-
-of | To ToT 7 TT 7 tT 7 T T_T
-=. CRUISE PERFORMANCE - TRUE AIRSPEED,
-GROSS WEIGHT 2150 LBS.
-NO WHEEL FAIRINGS INSTALLED
-BEST POWER
-MIXTURE - LEAN PER LYCOMING INSTRUCTIONS
-|
-14000
-7 Ful THROTTLE
-tS 12000 MOTE: ADD 3 MPH WHEN WHEEL
-= IN FAIRINGS ARE INSTALLED.
-E 19000 \
-=
-: BIN _
-Z fl / i!
-e000 Fy / N —
-rary
-6000 = S A
-pad x a
-1 = t——
-a x
-4000 ; | El |
-2000 | ]
-AH T
-100 110 120 130 140 150
-TRUE AIRSPEED, M.P.H.
-NOTE: SEE SECTION 7 FOR EFFECTS OF AIR CONDITIONING
-INSTALLATION ON PERFORMANCE.
-PERFORMANCE CHARTS
-
-REVISED: JUNE 13, 1974
-
-160
-
-9-5
-
----
-
-### Page 118
-
-PA-28-140
-CHEROKEE
-
-|
-2 [| CRUISE PERFORMANCE - RANGE _|_|
-= | | GROSS WEIGHT 2150 LBS. |
-y | WHEEL FAIRINGS INSTALLED
-rn STANDARD FUEL CAPACITY 36 GAL.
-| | 34 GAL. USABLE FUEL \ |
-| | BEST ECONOMY i
-| | meee = LEAN PER LYCOMING INSTRUCTIONS tt
-[3 | | ZERO WIND
-14000 ;-—— ______ KO RESERVE
-—_ _ 45 MIM. RESERVE AT 55% POWER
-12000 | | = is —
-Piet fT A |
-miele |
-10000 | —+ «—t2 Le 4 | [PERCENT ——
-| cam | Lye aren | MER
-or | 24 | POWER {|
-ira | £ | | | | | | 75 a4 |
-es 8000 fF : =— { { 65 1.3 —
-s | = ! | | | 55 6.2 |
-= |e ti ae
-> e000 | * tt | 1 !
-ZB | Lf |
--— | | | | |
-i |
-Cn
-woo FEIT
-meal
-=i
-; rT I
-300 400 500 600 700 800
-
-RANGE-STATUTE MILES
-
-NOTE: SEE SECTION 7 FOR EFFECTS OF AIR CONDITIONING
-INSTALLATION ON PERFORMANCE.
-
-PERFORMANCE CHARTS
-REVISED: JUNE 13, 1974
-
-9-6
-
----
-
-### Page 119
-
-761555
-
-14000
-
-12000
-
-10000
-
-8000
-
-6000
-
-DENSITY ALTITUDE-FEET
-
-4000
-
-2000
-
-PA-28-140
-CHEROKEE
-
-| CRUISE PERFORMANCE - RANGE
-
-RANGE-STATUTE MILES
-
-NOTE: SEE SECTION 7 FOR EFFECTS OF AIR CONDITIONING
-INSTALLATION ON PERFORMANCE.
-
-PERFORMANCE CHARTS
-REVISED: JUNE 13, 1974
-
-==
-GROSS WEIGHT 2150 LBS.
-WHEEL FAIRINGS INSTALLED
-MAXIMUM FUEL CAPACITY 50 GAL.
-48 GAL. USABLE FUEL
-BEST ECONOMY
-MIXTURE - LEAN PER LYCOMING INSTRUCTIONS
-ZERO WIND a ne
-—— NO RESERVE |_|
-——— 45 MIN. RESERVE AT 55% POWER :
-| “| ,
-: re
-2 |
-tote l
-& i
-pit ly -
-et | th a
-= af i | | | i
-Sel tt t
-ii
-{|| | PERCENT |  ypprox
-RATED LU
--_ ry | | | POWER oEh
-———ae 15 aa 4
-pos, I |] | i 65 13
-i f : 1 | 55 6.2. {7
-| _ i ! | { | | i
-400 500 600 700 800 900
-
-9-7
-
----
-
-### Page 120
-
-9-8
-
-761 S85
-
-14000
-
-12000
-
-10000
-
-8000
-
-ALTITUDE ABOVE TERRAIN, FEET
-
-6000
-
-4000
-
-2000
-
-Sl.
-
-PA-28-140
-CHEROKEE
-
-I Tl T I I !
-GLIDE PERFORMANCE
-GROSS WEIGHT 2150 LBS.
-
-PROP WINDMILLING
-
-FLAPS 0°
-ZERO WIND
-STANDARD DAY CONDITIONS
-85 MPH CAS ]
-|
-7
-| | L
-7 |
-\ L i
-|
-Wi ‘ i
-VA
-Va
-7
-VY !
-YA |
-|
-|
-5 10 15 20 25 30
-
-GLIDE DISTANCE - STATUTE MILES
-
-NOTE: SEE SECTION 7 FOR EFFECTS OF AIR CONDITIONING
-
-INSTALLATION ON PERFORMANCE.
-
-PERFORMANCE CHARTS
-REVISED: JUNE 13, 1974
-
----
-
-### Page 121
-
-PA-28-140
-
-CHEROKEE
-
-T T
-3 STALL SPEED
-. Vs
-AIRCRAFT
-GROSS WEIGHT
-POWER OFF
-+
-80
-so 70
-=
-=
-i] Ls
-2 60 aye Lt
-5 Saal
-— —— -
-= lL | a | +
-& 50 uses
-40
-1400 1600 1800 2000 2200
-AIRCRAFT GROSS WEIGHT - POUNDS
-NOTE: SEE SECTION 7 FOR EFFECTS OF AIR CONDITIONING
-INSTALLATION ON PERFORMANCE.
-PERFORMANCE CHARTS
-
-REVISED: JUNE 13, 1974
-
-9-9
-
----
-
-### Page 122
-
-PA-28-140
-CHEROKEE
-STALL SPEED
-atitan os BANK
-
-761 665
-
-GROSS WEIGHT — 2150 LBS.
-POWER OFF
-
-100
-
-° L
-
-= an 7
-=
-= ps A
-2 10 > a ra
-tee] cred
-a runes REM wera
-—_
-= L—
-60 - =
-Funes Ao
-eo
-50
-40
-0 10 20 30 40 50 60
-
-ANGLE OF BANK — DEGREES
-
-NOTE: SEE SECTION 7 FOR EFFECTS OF AIR CONDITIONING
-INSTALLATION ON PERFORMANCE.
-
-PERFORMANCE CHARTS
-9-10 REVISED: JUNE 13, 1974
-
----
-
-### Page 123
-
-PA-28-140
-CHEROKEE
-
-LANDING PERFORMANCE
-
-GROSS WEIGHT 2150 LBS.
-PAVED LEVEL DRY RUNWAY
-POWER OFF
-40° FLAPS
-ZERO WIND
-MAXIMUM BRAKING
-PPROACH AIRSPEED 71 MPH CAS
-
-761 555
-
+> sooo q
+> = (6000 \
+> 5 \
+> = 46800 \
 >
+> 2000 \
+>
+> 5 200 400 600 800
+> RATE OF CLIMB-FEET PER MINUTE
+> NOTE: SEE SECTION 7 FOR EFFECTS OF AIR CONDITIONING
+> INSTALLATION ON PERFORMANCE.
 
-7000
+#### Page 116
 
-.—>--—+—_
+![Page 116](pages/page-116.jpg)
 
-- |
+<sub>*OCR'd labels/captions on this page:*</sub>
 
-5000
+> PA-28-140
+> CHEROKEE
+> ENGINE PERFORMANCE
+>
+> GROSS WEIGHT 2150 LBS.
+> WHEEL FAIRINGS INSTALLED
+> MIXTURE - LEAN PER LYCOMING INSTRUCTIONS
+>
+> 761 555
+>
+> 12000 :
+>
+> 10000 L
+>
+> DENSITY ALTITUDE, FEET
+> PTS
+>
+> 6000 s/
+> 4000 7 = FY
+>
+> $5
+>
+> 2000 ne
+> 2000 ©2100 2200 2300 2400 2500 2600 2700
+> ENGINE R. P. M.
+>
+> NOTE: SEE SECTION 7 FOR EFFECTS OF AIR CONDITIONING
+> INSTALLATION ON PERFORMANCE.
+>
+> 9-4 REVISED: JUNE 13, 1974
 
-DENSITY ALTITUDE, FEET
+#### Page 117
 
-4000
+![Page 117](pages/page-117.jpg)
 
-——_]
+#### Page 118
 
-3000 3 |
-F]
+![Page 118](pages/page-118.jpg)
 
-R50 Fr.
+#### Page 119
 
-OvE
+![Page 119](pages/page-119.jpg)
 
-2000
+#### Page 120
 
-1008
+![Page 120](pages/page-120.jpg)
 
-|
+<sub>*OCR'd labels/captions on this page:*</sub>
 
-200 400 ee soe 1088 1266 1400
+> 761 S85
+>
+> ALTITUDE ABOVE TERRAIN, FEET
+>
+> PA-28-140
+> CHEROKEE
+>
+> I Tl T I I !
+> GLIDE PERFORMANCE
+> GROSS WEIGHT 2150 LBS.
+>
+> FLAPS 0°
+> ZERO WIND
+> STANDARD DAY CONDITIONS
+> 85 MPH CAS ]
+> 7 |
+> 5 10 15 20 25 30
+>
+> GLIDE DISTANCE - STATUTE MILES
+>
+> NOTE: SEE SECTION 7 FOR EFFECTS OF AIR CONDITIONING
+>
+> INSTALLATION ON PERFORMANCE.
 
-LANDING DISTANCE, FEET
+#### Page 121
 
-NOTE: SEE SECTION 7 FOR EFFECTS OF AIR CONDITIONING
-INSTALLATION ON PERFORMANCE.
+![Page 121](pages/page-121.jpg)
 
-PERFORMANCE CHARTS
-REVISED: JUNE 13, 1974 9-11
+<sub>*OCR'd labels/captions on this page:*</sub>
 
----
+> PA-28-140
+>
+> CHEROKEE
+>
+> 3 STALL SPEED
+> AIRCRAFT
+> GROSS WEIGHT
+> POWER OFF
+> so 70
+> 2 60 aye Lt
+> 5 Saal
+> & 50 uses
+> 1400 1600 1800 2000 2200
+> AIRCRAFT GROSS WEIGHT - POUNDS
+> NOTE: SEE SECTION 7 FOR EFFECTS OF AIR CONDITIONING
+> INSTALLATION ON PERFORMANCE.
 
-### Page 124
+#### Page 122
 
-*(blank)*
+![Page 122](pages/page-122.jpg)
 
-### Page 125
+<sub>*OCR'd labels/captions on this page:*</sub>
 
-HANDLING AND SERVICING
+> PA-28-140
+> CHEROKEE
+> STALL SPEED
+> atitan os BANK
+>
+> 761 665
+>
+> GROSS WEIGHT — 2150 LBS.
+> POWER OFF
+>
+> = an 7
+> 2 10 > a ra
+> tee] cred
+> a runes REM wera
+> 60 - =
+> Funes Ao
+> 0 10 20 30 40 50 60
+>
+> ANGLE OF BANK — DEGREES
+>
+> NOTE: SEE SECTION 7 FOR EFFECTS OF AIR CONDITIONING
+> INSTALLATION ON PERFORMANCE.
+>
+> 9-10 REVISED: JUNE 13, 1974
 
-Ground Handling...
+#### Page 123
+
+![Page 123](pages/page-123.jpg)
+
+<sub>*OCR'd labels/captions on this page:*</sub>
+
+> PA-28-140
+> CHEROKEE
+>
+> LANDING PERFORMANCE
+>
+> GROSS WEIGHT 2150 LBS.
+> PAVED LEVEL DRY RUNWAY
+> POWER OFF
+> 40° FLAPS
+> ZERO WIND
+> MAXIMUM BRAKING
+> PPROACH AIRSPEED 71 MPH CAS
+>
+> 761 555
+>
+> DENSITY ALTITUDE, FEET
+>
+> 3000 3 |
+>
+> R50 Fr.
+>
+> OvE
+>
+> 200 400 ee soe 1088 1266 1400
+>
+> LANDING DISTANCE, FEET
+>
+> NOTE: SEE SECTION 7 FOR EFFECTS OF AIR CONDITIONING
+> INSTALLATION ON PERFORMANCE.
+
+## Handling and Servicing
+
+#### Page 125
+
+Ground Handling … 
 Towing
 Taxiing
 Parking
@@ -4897,16 +3871,16 @@ Mooring
 
 Cleaning
 Cleaning Engine Compartment.
-Cleaning Landing Gear ..........
-Cleaning Exterior Surfaces..... te
-Cleaning Windshield and Windows.............. ... 10-4
+Cleaning Landing Gear  … 
+Cleaning Exterior Surfaces …  te
+Cleaning Windshield and Windows …  10-4
 Cleaning Headliner, Side Panels and Seats
 Cleaning Carpets
 
 Power Plant Induction Air Filter
 
 Removal of Induction Air Filter -- 10-5
-Cleaning Induction Air Piltett ccc... sccecesscsmesdenonursnoies ns assnerinnrscenenoramieneeres estas 10-5
+Cleaning Induction Air Piltett ccc …  sccecesscsmesdenonursnoies ns assnerinnrscenenoramieneeres estas 10-5
 Installation of Induction: Alt Filter scccccscccscconerusssrervvninccasveisuncconsneesiaeeuesiied eiecivaceiesGerenconcone 10-5
 Brake'Servic€! sccssewnws .-- 10-7
 Landing Gear Service . 10-7
@@ -4915,26 +3889,16 @@ Propeller Service
 Oil Requirements.
 Fuel System
 Fuel Requirements.
-Filling Fuel Tanks..
+Filling Fuel Tanks … 
 Draining Fuel Valves and
-Draining Fuel System......
+Draining Fuel System … 
 Tire Inflation
 Battery Service
 Facts You Should Know we
-Preventive Maintenance ..............ssscssseseseseseesesesesescseesscseseesescesceeacaeesaseseaeasaeeeecesecseeseseseseseesseneneace 10-12
-Required Service and Inspection Periods ...........scecssssesseseseesessesesseaeenesesesesesesesescascseeseseescacstevaceavaes 10-13
+Preventive Maintenance  … ssscssseseseseseesesesesescseesscseseesescesceeacaeesaseseaeasaeeeecesecseeseseseseseesseneneace 10-12
+Required Service and Inspection Periods  … scecssssesseseseesessesesseaeenesesesesesesesescascseeseseescacstevaceavaes 10-13
 
-10-i
-
----
-
-### Page 126
-
-*(blank)*
-
-### Page 127
-
-HANDLING AND SERVICING
+#### Page 127
 
 This section contains information on preventive maintenance. Refer to the Cherokee 140
 Service Manual for further maintenance procedures. Any complex repair or modification should
@@ -4971,12 +3935,7 @@ e. Do not operate the engine at high RPM when running up or taxiing over ground
 containing loose stones, gravel or any loose material that may cause damage to
 the propeller blades.
 
-HANDLING AND SERVICING
-ISSUED: JULY 6, 1973 10-1
-
----
-
-### Page 128
+#### Page 128
 
 PARKING
 
@@ -5025,12 +3984,9 @@ ropes from the landing gear forks, and securing the rudder.
 
 e. Install a pitot head cover, if available.
 
-HANDLING AND SERVICING
 10-2 ISSUED: JULY 6, 1973
 
----
-
-### Page 129
+#### Page 129
 
 CLEANING
 
@@ -5038,9 +3994,6 @@ CLEANING ENGINE COMPARTMENT
 
 Before cleaning the engine compartment, place a strip of tape on the magneto vents
 to prevent solvent from entering these units.
-
-a.
-b.
 
 Place a large pan under the engine to catch waste.
 
@@ -5072,9 +4025,6 @@ CLEANING LANDING GEAR
 Before cleaning the landing gear, place a plastic cover or similar material over the
 wheel and brake assembly.
 
-a.
-b.
-
 Place a pan under the gear to catch waste.
 
 Spray or brush the gear area with solvent or a mixture of solvent and degreaser.
@@ -5088,14 +4038,7 @@ Remove the cover from the wheel and remove the catch pan.
 
 Lubricate the gear in accordance with the Lubrication Chart.
 
-HANDLING AND SERVICING
-ISSUED: JULY 6, 1973 10-3
-
----
-
-### Page 130
-
-10-4
+#### Page 130
 
 CLEANING EXTERIOR SURFACES
 
@@ -5103,8 +4046,6 @@ The airplane should be washed with a mild soap and water. Harsh abrasive or alka
 soaps or detergents used on painted or plastic surfaces could make scratches or cause
 corrosion of metal surfaces. Cover areas where cleaning solution could cause damage. To
 wash the airplane, the following procedure may be used:
-
-ono oP
 
 Flush away loose dirt with water.
 
@@ -5124,9 +4065,6 @@ CLEANING WINDSHIELD AND WINDOWS
 A certain amount of care is needed to keep the plexiglas windows clean and
 unmarred. The following procedure is recommended:
 
-a.
-b.
-
 Remove dirt, mud, and other marks from exterior surface with clean water.
 
 Wash with mild soap and warm water or an aircraft plastic cleaner. Use a soft
@@ -5141,15 +4079,10 @@ thinner, acetone, or window cleaning sprays.
 After cleaning plastic surfaces, apply a thin coat of hard polishing wax. Rub
 lightly with a soft cloth. Do not use a circular motion.
 
-A severe scratch or mar in plastic can be removed by using jeweler’s rouge to rub
+A severe scratch or mar in plastic can be removed by using jeweler's rouge to rub
 out the scratch. Smooth both sides and apply wax.
 
-HANDLING AND SERVICING
-ISSUED: JULY 6, 1973
-
----
-
-### Page 131
+#### Page 131
 
 CLEANING HEADLINER, SIDE PANELS AND SEATS
 
@@ -5157,7 +4090,7 @@ Clean headliner, side panels and seats with a stiff bristle brush, and vacuum
 where necessary.
 
 Soiled upholstery, except leather, may be cleaned by using an approved foam
-upholstery cleaner. Carefully follow the manufacturer’s instructions. Avoid
+upholstery cleaner. Carefully follow the manufacturer's instructions. Avoid
 soaking or harsh rubbing.
 
 CAUTION
@@ -5180,12 +4113,6 @@ REMOVAL OF INDUCTION AIR FILTER
 The air filter is located below the spinner assembly. If a landing light is installed. it
 will be within the center of the filter assembly. To remove the filter:
 
-a.
-b.
-C.
-
-d.
-
 Open the cowl.
 Remove the thumb screw on the back of the filter assembly.
 
@@ -5207,12 +4134,7 @@ INSTALLATION OF INDUCTION AIR FILTER
 
 After cleaning or replacing the filter, install it in the reverse order of removal.
 
-HANDLING AND SERVICING
-ISSUED: JULY 6, 1973 10-5
-
----
-
-### Page 132
+#### Page 132
 
 Awd3d Y30G0NHY ONY aNWYs 14537 SLOMNdOS
 Awad Y3GGNY GNV ANVHE LHOIY SLONdOD
@@ -5224,7 +4146,7 @@ ATSW3SSY USONITAD Y3LSUN ©
 
 Nid SIA319 *
 
-LSNI‘3NIT *
+LSNI'3NIT *
 
 NOLLNG 3SV3B73uY STIONVH *
 SIGNVH aywua *
@@ -5238,24 +4160,11 @@ Awaad Y3GGNY ONY 3XVua LHOIY ©
 
 YUIOAYUSS3Y 3SHVYE *
 
-“ot
-"el
-rai
-mat
-
 HAnaeoerne
 
 Brake System
 
-ISSUED: JULY 6, 1973
-
-HANDLING AND SERVICING
-
-10-6
-
----
-
-### Page 133
+#### Page 133
 
 BRAKE SERVICE
 
@@ -5306,12 +4215,7 @@ aircraft. The jacks should be placed under the jack points on the wing and the a
 up until the tail skid is at the right height to attach the tail stand. After attaching the tail stand
 and adding ballast, jacking may be continued until the aircraft is at the height desired.
 
-HANDLING AND SERVICING
-ISSUED: JULY 6, 1973 10-7
-
----
-
-### Page 134
+#### Page 134
 
 PROPELLER SERVICE
 
@@ -5320,7 +4224,7 @@ propeller should be inspected before each flight for nicks, scratches, and corro
 they should be taken care of as soon as possible by a rated mechanic, because nicks and
 scratches cause areas of increased stress which can cause serious damage or loss of a propeller
 tip. The back face of the blades should be painted when necessary with flat black paint to retard
-glare to the pilot’s eyes. To prevent corrosion the surface should be cleaned and waxed
+glare to the pilot's eyes. To prevent corrosion the surface should be cleaned and waxed
 periodically.
 
 OIL REQUIREMENTS
@@ -5353,12 +4257,9 @@ NOTE
 Refer to the latest issue of Textron Lycoming-Service Instruction 1014
 (Lubricating Oil Recommendations) for further information.
 
-HANDLING AND SERVICING
 10-8 REVISED: MARCH 16, 1990
 
----
-
-### Page 135
+#### Page 135
 
 FUEL SYSTEM
 
@@ -5383,21 +4284,13 @@ leaning procedures.
 Reference the latest issue of Lycoming Service Letter No. L185 for care, operation
 and maintenance of the airplane when using the higher leaded fuel.
 
-HANDLING AND SERVICING
-ISSUED: MARCH 16, 1990 10-8a
-
----
-
-### Page 136
+#### Page 136
 
 THIS PAGE INTENTIONALLY LEFT BLANK
 
-HANDLING AND SERVICING
 10-8b ISSUED: MARCH 16, 1990
 
----
-
-### Page 137
+#### Page 137
 
 Fuel Drain
 
@@ -5410,7 +4303,7 @@ Previous Commercial Current Commercial Current Military
 Fuel Grades (ASTM-D910) Fuel Grades (ASTM-D9 10-75) Fuel Grades (MIL-G-5572F)
 Max. TEL Max. TEL Max. TEL
 Grade Color ml/U.S. gal. Grade Color ml/U.S. gal. Grade Color | mlU.S. gal
-80’87 red 0.5 80 red 0.5 80/87 red 0.5
+80'87 red 0.5 80 red 0.5 80/87 red 0.5
 91/96 blue 2.0 *]00LL blue 2.0 none none none
 100/130] green 3.0 100 green #430 100/130 blue 2.0
 115/145 | purple 4.6 none none none 115/145 purple 4.6
@@ -5429,29 +4322,23 @@ or 18 gallons per tank, fill the tanks to the bottom of the filler neck tube or 
 indicator. To obtain the standard plus reserve quantity, fill the tanks to the top of the filler
 neck.
 
-HANDLING AND SERVICING
+#### Page 138
 
-REVISED: MARCH 16, 1990 10-9
+![Page 138](pages/page-138.jpg)
 
----
+#### Page 139
 
-### Page 138
+![Page 139](pages/page-139.jpg)
 
-*(blank)*
+#### Page 140
 
-### Page 139
+![Page 140](pages/page-140.jpg)
 
-*(blank)*
+#### Page 141
 
-### Page 140
+![Page 141](pages/page-141.jpg)
 
-*(blank)*
-
-### Page 141
-
-*(blank)*
-
-### Page 142
+#### Page 142
 
 ainjeOUstION uOneoNqny]
 
@@ -5459,15 +4346,15 @@ B1dWVX4
 
 “SLUWd H3GENY OL LNVOINENT Alddv LON OO 'E
 *STOWLNOD L1dXOO9 ALVOINANT-H3AO LON ON 2
-“3sV@ UALS HO 10 HOLSYO V HLIM GIN ONNWEOAH 3SN LONOG ‘tb
+“3sV@ UALS HO 10 HOLSYO V HLIM GIN ONNWEOAH 3SN LONOG 'tb
 
 SNOLLNVD
 
-"10 LN3OU3L30 JO 3SN WOs ¥}0} ‘ON SNOILONULSNI SOIAWSS DNINODAT 33S
+"10 LN3OU3L30 JO 3SN WOs ¥}0} 'ON SNOILONULSNI SOIAWSS DNINODAT 33S
 
-SE ‘ON H31131 SOIAWSS Hadid
+SE 'ON H31131 SOIAWSS Hadid
 
-OL ¥ad3H ‘OSHINODAY SV SATIVA HOLO31aS B3LVOIWAN - SAIWA HOLO313S 13N4
+OL ¥ad3H 'OSHINODAY SV SATIVA HOLO31aS B3LVOIWAN - SAIWA HOLO313S 13N4
 “WALWM 4O ALILNWNO WWAHONEV
 
 NY OL BYNSOdXS HALIV ONINOWd3H ANY ONINV319 SYINDAY SONINVS 13aHM
@@ -5483,32 +4370,30 @@ ONY ATAWASSY DNIUNG SSW3HD Aldd¥ "aSyauo JO Tid 2} 3d OL NOISSINSNVUL SIHL
 "JO ONLLVOIHAN1 0282-1 1IN HLIM Galvoldam
 
 NBHL INAATOS 3dAL AUC V HLIM O3NV310 3¢ LSuld TINOHS $3A331S NO143L LNOHLIM
-S3ONIH NOWSY ‘GALVOIW8N1 3@ LON CINOHS SaA3S1S NOWAL HLIM S39NIH NOWSTIV
+S3ONIH NOWSY 'GALVOIW8N1 3@ LON CINOHS SaA3S1S NOWAL HLIM S39NIH NOWSTIV
 “WNWININ ¥ LV SW SNOLLIGNOD
 
-ALSNG N3HM SHNOH 082 OL GS0N3LG 38 AWW NOLLVOIHANT ‘SABTINd WiLL GYSHYSAO
+ALSNG N3HM SHNOH 082 OL GS0N3LG 38 AWW NOLLVOIHANT 'SABTINd WiLL GYSHYSAO
 
 (qos) SNOLLONYLSNI WWIOadS
 
-‘Ob
-
 “S3YNCIOOUd SOAS ASONSWNWOO3Y
 
-ONY NOLLYWUOSNI TWNOLLOGY YOd v9811 ‘ON HALLAT SOLAS DNINOOAT OL Wad3u ‘G3sn
+ONY NOLLYWUOSNI TWNOLLOGY YOd v9811 'ON HALLAT SOLAS DNINOOAT OL Wad3u 'G3sn
 36 INV1d WAMOd SHL HOJ ONLY SNVLOO G3IsiO3dS SHL NWHL Y3HLO 13N4 QINOHS
 “G3SN SI 13N4 SNVLOO alsIN3dS SHL GNV NOLLYH3dO JO SYNOH 09 HOWa G30V1d3"
 S| INSN313 SHL G30IAOdd 'S¥aLI WO GdAL SDCIWLYVO) MO1S Td HLIM d3ddiNo3
 S3NIDN3 NO %00} SV HONW SV GASVSHON! 38 NVO S3ONVHO 110 N3aMLA8 STVAYALNI
-“DNLLVOINGN] 3YOI3 ‘O13
+“DNLLVOINGN] 3YOI3 'O13
 
-‘Lui M0 'aSW3"O G10 JO NV319 SLNIOd NOLLWOIHSNT TIV SdlM - SLNIOd NOLLWOIW8N7
+'Lui M0 'aSW3"O G10 JO NV319 SLNIOd NOLLWOIHSNT TIV SdlM - SLNIOd NOLLWOIW8N7
 “s1aWassway
 
-ONY ONIH O ALYOINENT ‘ISNVd LNSWNYLSNI NOUS SALVId YSNIVLSH ONID
-© S1SW3SSYSIC * (AINO L3VHS HONI 924°} HLIM) ONIHSNE L4VHS JOULNOD ‘DNIY O
+ONY ONIH O ALYOINENT 'ISNVd LNSWNYLSNI NOUS SALVId YSNIVLSH ONID
+© S1SW3SSYSIC * (AINO L3VHS HONI 924°} HLIM) ONIHSNE L4VHS JOULNOD 'DNIY O
 IINOLLO3S “WANWW SOIAH3S O1 43434 HO
 
-‘YBNIVLNOO HO LINN NO SNOLLONUISNI Had Tid - HIOAWSS3Y ayvua ONY 'SINHLS 0370
+'YBNIVLNOO HO LINN NO SNOLLONUISNI Had Tid - HIOAWSS3Y ayvua ONY 'SINHLS 0370
 “ONISNOH 133HM
 
 NI 3SV3HYO HOVd LON Od “SNOO ONV ATION ONINV3d SHL N33SML38 G3yOvd SI 3SVSHO
@@ -5517,7 +4402,7 @@ ALVHL NIVLHSOSY 'LN3AI0S 3dAL AUC V HLIM NVS19 ONY ATGWaSSYSIO - SONIHVAd 133M
 
 3HOdaa LN3AIOS 3dAL AYO V HLIM HOIWALXA NV319 - SONIHSNE GNV SONIV3G
 “GSOVWYO HO GAYNLONNd J! WAL 1I4 3OW1d3Y “10 ASN HO HIV GaSSSudNOO HLM NO
-MO18 LON OG ‘SSO Vd LYIG 3AOW3Y OL ATLNAD d¥L “Wald NWA19 OL - HALTS UI
+MO18 LON OG 'SSO Vd LYIG 3AOW3Y OL ATLNAD d¥L “Wald NWA19 OL - HALTS UI
 
 SNOLLONYLSNI WWID4dS
 
@@ -5532,10 +4417,10 @@ zasvauo
 d3 VINVATY 113HS
 *(@d3 XMGOW HO)
 LL 3SV3HO GON
-‘asVauD 3SOduiNd “dWAL HOIH
-TV HWSHVIN OOWXEL ‘LdVHOulV ‘ASVaHO a
+'asVauD 3SOduiNd “dWAL HOIH
+TV HWSHVIN OOWXEL 'LdVHOulV 'ASVaHO a
 MaWOS HOLWNLOV
-ONV HV39 ‘LNSANHLSNI
+ONV HV39 'LNSANHLSNI
 LeBez-9-1N ONY LaVUOUIV "ASVIHO a
 3SV@ WNSTOULAd
 9099-H-11N Gini ONINWYOAH ]
@@ -5546,7 +4431,7 @@ LeBez-9-1N ONY LaVUOUIV "ASVIHO a
 Q314I0adS S¥ 3QVuO (NOLS!)
 SNION3 ONLLVOOWdIOSY
 2809-71-71 LAVHOHIV "10 ONLLVOIHBNT a
-dNAL MO1‘3SOduNd
+dNAL MO1'3SOduNd
 0282-1-11N Wu3N3O "10 ONLVOIEM v
 HOON3A GNV NOILVOISIOAdS ANVOIHaNT 4WaLL31
 LONGOWd 03uH3a43ud NOLLVOISLLNSO!
@@ -5555,34 +4440,16 @@ ANVOINEN1 JO SdAL
 
 APRIL 19, 1976
 
-HANDLING AND SERVICING
-REVISED:
+#### Page 143
 
-10-14
+![Page 143](pages/page-143.jpg)
 
----
+<sub>*OCR'd labels/captions on this page:*</sub>
 
-### Page 143
-
-SKETCH
-
-8
-ne
-
-OMASE sruay ORvsa | AYBRAVUC
-
-a
-can
-
-wcTnee
-
-Lubrication Chart
-
-HANDLING AND SERVICING
-ISSUED: JULY 6, 1973 10-15
-
----
-
-### Page 144
-
-*(blank)*
+> SKETCH
+>
+> OMASE sruay ORvsa | AYBRAVUC
+>
+> wcTnee
+>
+> Lubrication Chart
