@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 1140" width="400" height="1140" font-family="-apple-system, system-ui, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 1080" width="400" height="1080" font-family="-apple-system, system-ui, sans-serif">
   <!-- Background -->
-  <rect width="400" height="1140" fill="#0a0f1a"/>
+  <rect width="400" height="1080" fill="#0a0f1a"/>
 
   <!-- Header -->
   <text x="200" y="26" font-size="17" font-weight="700" fill="#e5e7eb" text-anchor="middle">Cherokee 140 Pattern Flow</text>
@@ -15,18 +15,18 @@
     <text x="20" y="114" font-size="9" fill="#e5e7eb">• Doors/windows latched · Seatbelts &amp; harness tight · Radio 10 mi out</text>
   </g>
 
-  <!-- Runway -->
+  <!-- Runway (shorter: was 640 tall, now 380) -->
   <g>
-    <rect x="290" y="200" width="30" height="640" fill="#1f2937" stroke="#4b5563" stroke-width="1"/>
-    <line x1="305" y1="215" x2="305" y2="830" stroke="#e5e7eb" stroke-width="1.2" stroke-dasharray="10 10"/>
+    <rect x="290" y="200" width="30" height="380" fill="#1f2937" stroke="#4b5563" stroke-width="1"/>
+    <line x1="305" y1="215" x2="305" y2="570" stroke="#e5e7eb" stroke-width="1.2" stroke-dasharray="10 10"/>
     <g fill="#e5e7eb">
-      <rect x="292" y="820" width="3" height="12"/>
-      <rect x="297" y="820" width="3" height="12"/>
-      <rect x="302" y="820" width="3" height="12"/>
-      <rect x="307" y="820" width="3" height="12"/>
-      <rect x="312" y="820" width="3" height="12"/>
+      <rect x="292" y="560" width="3" height="12"/>
+      <rect x="297" y="560" width="3" height="12"/>
+      <rect x="302" y="560" width="3" height="12"/>
+      <rect x="307" y="560" width="3" height="12"/>
+      <rect x="312" y="560" width="3" height="12"/>
     </g>
-    <text x="305" y="800" font-size="9" fill="#e5e7eb" text-anchor="middle" font-weight="700">36</text>
+    <text x="305" y="555" font-size="9" fill="#e5e7eb" text-anchor="middle" font-weight="700">36</text>
     <text x="305" y="220" font-size="9" fill="#e5e7eb" text-anchor="middle" font-weight="700">18</text>
   </g>
 
@@ -36,31 +36,33 @@
            Q 275 170 255 180
            L 130 180
            Q 100 180 100 215
-           L 100 810
-           Q 100 840 130 840
-           L 260 840
-           Q 305 840 305 810
-           L 305 780"
+           L 100 550
+           Q 100 580 130 580
+           L 260 580
+           Q 305 580 305 550
+           L 305 590"
         stroke="#22d3ee" stroke-width="1.8" fill="none" stroke-dasharray="6 4"/>
 
-  <!-- Aircraft symbols -->
+  <!-- Aircraft symbols on pattern -->
   <g transform="translate(305 165)">
     <polygon points="0,-7 5,5 -5,5" fill="#a5b4fc" stroke="#4f46e5" stroke-width="1"/>
   </g>
-  <g transform="translate(100 400) rotate(180)">
+  <g transform="translate(100 300) rotate(180)">
     <polygon points="0,-7 5,5 -5,5" fill="#a5b4fc" stroke="#4f46e5" stroke-width="1"/>
   </g>
-  <g transform="translate(100 700) rotate(180)">
+  <g transform="translate(100 470) rotate(180)">
     <polygon points="0,-7 5,5 -5,5" fill="#fbbf24" stroke="#b45309" stroke-width="1"/>
   </g>
-  <g transform="translate(200 840) rotate(90)">
+  <!-- Base aircraft at bottom of pattern -->
+  <g transform="translate(200 580) rotate(90)">
     <polygon points="0,-7 5,5 -5,5" fill="#fbbf24" stroke="#b45309" stroke-width="1"/>
   </g>
-  <g transform="translate(305 810) rotate(0)">
+  <!-- Final aircraft approaching runway -->
+  <g transform="translate(305 570) rotate(0)">
     <polygon points="0,-7 5,5 -5,5" fill="#4ade80" stroke="#16a34a" stroke-width="1"/>
   </g>
 
-  <!-- ① UPWIND CLIMB -->
+  <!-- Callout ① UPWIND CLIMB (above pattern, near top) -->
   <g>
     <rect x="150" y="135" width="140" height="42" rx="4" fill="#1e293b" stroke="#4f46e5" stroke-width="1"/>
     <text x="157" y="149" font-size="10" font-weight="700" fill="#a5b4fc">① UPWIND CLIMB</text>
@@ -68,90 +70,89 @@
     <text x="157" y="173" font-size="9" fill="#9ca3af">Full throttle · ~2400 RPM</text>
   </g>
 
-  <!-- ② DOWNWIND (rich) -->
+  <!-- Callout ② DOWNWIND (on left, next to downwind track) -->
   <g>
-    <rect x="10" y="320" width="150" height="115" rx="4" fill="#1e293b" stroke="#4f46e5" stroke-width="1"/>
-    <text x="17" y="336" font-size="10" font-weight="700" fill="#a5b4fc">② DOWNWIND</text>
-    <text x="17" y="349" font-size="9" fill="#e5e7eb">90 MPH · Level TPA · Flaps UP</text>
-    <text x="17" y="360" font-size="9" fill="#9ca3af">~2200 RPM (fixed pitch varies)</text>
-    <text x="17" y="376" font-size="9" font-weight="700" fill="#e5e7eb">Landing flow (FMS):</text>
-    <text x="17" y="388" font-size="9" fill="#e5e7eb">F — Fuel pump ON · fullest tank</text>
-    <text x="17" y="399" font-size="9" fill="#e5e7eb">M — Mixture RICH</text>
-    <text x="17" y="410" font-size="9" fill="#e5e7eb">S — Seatbelts tight</text>
-    <text x="17" y="424" font-size="9" fill="#22d3ee">📻 "N86EC left downwind [rwy]"</text>
+    <rect x="10" y="225" width="145" height="105" rx="4" fill="#1e293b" stroke="#4f46e5" stroke-width="1"/>
+    <text x="17" y="240" font-size="10" font-weight="700" fill="#a5b4fc">② DOWNWIND</text>
+    <text x="17" y="253" font-size="9" fill="#e5e7eb">90 MPH · Level TPA · Flaps UP</text>
+    <text x="17" y="264" font-size="9" fill="#9ca3af">~2200 RPM (fixed pitch varies)</text>
+    <text x="17" y="279" font-size="9" font-weight="700" fill="#e5e7eb">Landing flow (FMS):</text>
+    <text x="17" y="291" font-size="9" fill="#e5e7eb">F — Fuel pump ON · fullest tank</text>
+    <text x="17" y="302" font-size="9" fill="#e5e7eb">M — Mixture RICH</text>
+    <text x="17" y="313" font-size="9" fill="#e5e7eb">S — Seatbelts tight</text>
+    <text x="17" y="325" font-size="9" fill="#22d3ee">📻 "N86EC left downwind"</text>
   </g>
 
-  <!-- ③ ABEAM NUMBERS - explicit ORDER -->
+  <!-- Callout ③ ABEAM NUMBERS -->
   <g>
-    <rect x="10" y="630" width="150" height="118" rx="4" fill="#1e293b" stroke="#f59e0b" stroke-width="1"/>
-    <text x="17" y="646" font-size="10" font-weight="700" fill="#fbbf24">③ ABEAM NUMBERS</text>
-    <text x="17" y="660" font-size="9" font-weight="700" fill="#e5e7eb">Do these IN ORDER:</text>
-    <text x="17" y="673" font-size="9" fill="#e5e7eb">1. Carb heat ON</text>
-    <text x="17" y="685" font-size="9" fill="#9ca3af">   (before throttle — drops RPM)</text>
-    <text x="17" y="697" font-size="9" fill="#e5e7eb">2. Throttle → ~1700 RPM</text>
-    <text x="17" y="709" font-size="9" fill="#e5e7eb">3. Flaps 1st notch (10°)</text>
-    <text x="17" y="721" font-size="9" fill="#9ca3af">   as speed passes 100 MPH</text>
-    <text x="17" y="733" font-size="9" fill="#e5e7eb">4. Begin descent, trim to 80</text>
-    <text x="17" y="745" font-size="9" fill="#22d3ee">📻 (if busy freq)</text>
+    <rect x="10" y="395" width="145" height="115" rx="4" fill="#1e293b" stroke="#f59e0b" stroke-width="1"/>
+    <text x="17" y="410" font-size="10" font-weight="700" fill="#fbbf24">③ ABEAM NUMBERS</text>
+    <text x="17" y="423" font-size="9" font-weight="700" fill="#e5e7eb">Do these IN ORDER:</text>
+    <text x="17" y="436" font-size="9" fill="#e5e7eb">1. Carb heat ON</text>
+    <text x="17" y="447" font-size="9" fill="#9ca3af">   (before throttle — drops RPM)</text>
+    <text x="17" y="459" font-size="9" fill="#e5e7eb">2. Throttle → ~1700 RPM</text>
+    <text x="17" y="471" font-size="9" fill="#e5e7eb">3. Flaps 1st notch (10°)</text>
+    <text x="17" y="482" font-size="9" fill="#9ca3af">   as speed passes 100 MPH</text>
+    <text x="17" y="494" font-size="9" fill="#e5e7eb">4. Begin descent, trim to 80</text>
   </g>
+
+  <!-- Wind indicator -->
+  <g transform="translate(360 400)">
+    <text x="0" y="0" font-size="8" fill="#9ca3af" text-anchor="middle">WIND</text>
+    <line x1="0" y1="4" x2="0" y2="24" stroke="#9ca3af" stroke-width="1.4"/>
+    <polygon points="0,26 -3,20 3,20" fill="#9ca3af"/>
+  </g>
+
+  <!-- BASE / FINAL / SHORT FINAL stacked in reading order below pattern -->
 
   <!-- ④ BASE -->
   <g>
-    <rect x="130" y="870" width="150" height="65" rx="4" fill="#1e293b" stroke="#f59e0b" stroke-width="1"/>
-    <text x="137" y="886" font-size="10" font-weight="700" fill="#fbbf24">④ BASE</text>
-    <text x="137" y="899" font-size="9" fill="#e5e7eb">80 MPH · Flaps 25° (2nd)</text>
-    <text x="137" y="910" font-size="9" fill="#9ca3af">~1500-1700 RPM · glidepath</text>
-    <text x="137" y="924" font-size="9" fill="#22d3ee">📻 "turning left base"</text>
+    <rect x="10" y="625" width="380" height="60" rx="4" fill="#1e293b" stroke="#f59e0b" stroke-width="1"/>
+    <text x="20" y="641" font-size="11" font-weight="700" fill="#fbbf24">④ BASE</text>
+    <text x="20" y="656" font-size="10" fill="#e5e7eb">80 MPH · Flaps 25° (2nd notch) · ~1500–1700 RPM</text>
+    <text x="20" y="668" font-size="9" fill="#9ca3af">Clear final before turning · adjust throttle for glidepath</text>
+    <text x="20" y="680" font-size="9" fill="#22d3ee">📻 "N86EC turning left base"</text>
   </g>
 
   <!-- ⑤ FINAL -->
   <g>
-    <rect x="10" y="770" width="150" height="80" rx="4" fill="#1e293b" stroke="#16a34a" stroke-width="1"/>
-    <text x="17" y="786" font-size="10" font-weight="700" fill="#4ade80">⑤ FINAL</text>
-    <text x="17" y="800" font-size="9" fill="#e5e7eb">75 MPH · Full flaps (40°)</text>
-    <text x="17" y="812" font-size="9" fill="#9ca3af">Trim hands-off · pitch=speed</text>
-    <text x="17" y="824" font-size="9" fill="#9ca3af">throttle=path</text>
-    <text x="17" y="838" font-size="9" fill="#22d3ee">📻 "final [rwy] full stop"</text>
+    <rect x="10" y="695" width="380" height="65" rx="4" fill="#1e293b" stroke="#16a34a" stroke-width="1"/>
+    <text x="20" y="711" font-size="11" font-weight="700" fill="#4ade80">⑤ FINAL</text>
+    <text x="20" y="726" font-size="10" fill="#e5e7eb">75 MPH · Full flaps (40°) · ~1500 RPM (adjust)</text>
+    <text x="20" y="738" font-size="9" fill="#9ca3af">Trim hands-off · pitch = speed · throttle = glidepath</text>
+    <text x="20" y="751" font-size="9" fill="#22d3ee">📻 "N86EC final, full stop"</text>
   </g>
 
-  <!-- ⑥ SHORT FINAL / FENCE -->
+  <!-- ⑥ SHORT FINAL / OVER FENCE -->
   <g>
-    <rect x="10" y="875" width="105" height="72" rx="4" fill="#1e293b" stroke="#16a34a" stroke-width="1"/>
-    <text x="17" y="891" font-size="10" font-weight="700" fill="#4ade80">⑥ SHORT FINAL</text>
-    <text x="17" y="904" font-size="9" font-weight="700" fill="#e5e7eb">Landing assured:</text>
-    <text x="17" y="915" font-size="9" fill="#e5e7eb">Carb heat → COLD</text>
-    <text x="17" y="926" font-size="9" fill="#e5e7eb">70 MPH over fence</text>
-    <text x="17" y="937" font-size="9" fill="#9ca3af">Fuel pump stays ON</text>
-  </g>
-
-  <!-- Wind arrow -->
-  <g transform="translate(360 870)">
-    <text x="0" y="0" font-size="8" fill="#9ca3af" text-anchor="middle">WIND</text>
-    <line x1="0" y1="4" x2="0" y2="26" stroke="#9ca3af" stroke-width="1.4"/>
-    <polygon points="0,28 -3,22 3,22" fill="#9ca3af"/>
+    <rect x="10" y="770" width="380" height="60" rx="4" fill="#1e293b" stroke="#16a34a" stroke-width="1"/>
+    <text x="20" y="786" font-size="11" font-weight="700" fill="#4ade80">⑥ SHORT FINAL — landing assured</text>
+    <text x="20" y="801" font-size="10" fill="#e5e7eb">70 MPH over fence · Carb heat → COLD · Throttle idle</text>
+    <text x="20" y="813" font-size="9" fill="#9ca3af">Fuel pump stays ON · Flare · touch mains first</text>
+    <text x="20" y="825" font-size="9" fill="#9ca3af">1.27 × Vso — margin is thin, don't get slow</text>
   </g>
 
   <!-- AFTER LANDING strip -->
   <g>
-    <rect x="10" y="970" width="380" height="52" rx="4" fill="#0f172a" stroke="#22d3ee" stroke-width="1"/>
-    <text x="20" y="988" font-size="11" font-weight="700" fill="#22d3ee">AFTER LANDING — CLEAR OF RUNWAY</text>
-    <text x="20" y="1002" font-size="9" fill="#e5e7eb">• Flaps UP · Carb heat COLD · Electric fuel pump OFF</text>
-    <text x="20" y="1014" font-size="9" fill="#e5e7eb">• Transponder STBY · Landing light OFF · Taxi normally</text>
+    <rect x="10" y="850" width="380" height="52" rx="4" fill="#0f172a" stroke="#22d3ee" stroke-width="1"/>
+    <text x="20" y="868" font-size="11" font-weight="700" fill="#22d3ee">AFTER LANDING — CLEAR OF RUNWAY</text>
+    <text x="20" y="882" font-size="9" fill="#e5e7eb">• Flaps UP · Carb heat COLD · Electric fuel pump OFF</text>
+    <text x="20" y="894" font-size="9" fill="#e5e7eb">• Transponder STBY · Landing light OFF · Taxi normally</text>
   </g>
 
   <!-- GO-AROUND -->
   <g>
-    <rect x="10" y="1032" width="380" height="60" rx="4" fill="#0f172a" stroke="#ef4444" stroke-width="1.5"/>
-    <text x="20" y="1050" font-size="11" font-weight="700" fill="#ef4444">⚠ GO-AROUND (any time)</text>
-    <text x="20" y="1063" font-size="9" fill="#e5e7eb">1. Throttle FULL smoothly  2. Carb heat COLD  3. Pitch for Vy (85)</text>
-    <text x="20" y="1074" font-size="9" fill="#e5e7eb">4. Flaps UP in stages (Johnson bar is manual — not all at once)</text>
-    <text x="20" y="1085" font-size="9" fill="#e5e7eb">5. Positive rate → announce, sidestep, re-enter downwind</text>
+    <rect x="10" y="912" width="380" height="60" rx="4" fill="#0f172a" stroke="#ef4444" stroke-width="1.5"/>
+    <text x="20" y="930" font-size="11" font-weight="700" fill="#ef4444">⚠ GO-AROUND (any time)</text>
+    <text x="20" y="943" font-size="9" fill="#e5e7eb">1. Throttle FULL smoothly  2. Carb heat COLD  3. Pitch for Vy (85)</text>
+    <text x="20" y="954" font-size="9" fill="#e5e7eb">4. Flaps UP in stages (Johnson bar is manual — not all at once)</text>
+    <text x="20" y="965" font-size="9" fill="#e5e7eb">5. Positive rate → announce, sidestep, re-enter downwind</text>
   </g>
 
   <!-- Legend -->
   <g>
-    <rect x="10" y="1100" width="380" height="34" rx="4" fill="#0f172a" stroke="#374151"/>
-    <text x="20" y="1114" font-size="9" fill="#22d3ee">■ POH-published: 75/80 MPH approach · Vy 85 · Vfe 115</text>
-    <text x="20" y="1126" font-size="9" fill="#fbbf24">■ Practice: pattern breakdown &amp; RPM approximations (adjust to hold speed)</text>
+    <rect x="10" y="982" width="380" height="34" rx="4" fill="#0f172a" stroke="#374151"/>
+    <text x="20" y="996" font-size="9" fill="#22d3ee">■ POH-published: 75/80 MPH approach · Vy 85 · Vfe 115</text>
+    <text x="20" y="1008" font-size="9" fill="#fbbf24">■ Practice: pattern breakdown &amp; RPM approximations (adjust to hold speed)</text>
   </g>
 </svg>
